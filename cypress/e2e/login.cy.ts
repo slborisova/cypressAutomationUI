@@ -1,4 +1,4 @@
-import { LoginPage } from "../../pages/Login";
+import { LoginPage } from "../../pages/login";
 describe("Login Page", () => {
   beforeEach(() => {
     cy.visit(`${Cypress.env("demoQA")}/login`);
@@ -7,7 +7,7 @@ describe("Login Page", () => {
     cy.get("#userName").type("test");
     cy.get("#password").type("Test1234*");
     cy.contains("button", "Login").click();
-    //cy.get('#login').click // same as contains (previous line)
+    //cy.get('#login').click() // same as contains (previous line)
     cy.contains("Log out");
   });
   it("login with PageObject", () => {

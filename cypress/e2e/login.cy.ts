@@ -1,4 +1,4 @@
-import { LoginPage } from "../pages/Login";
+import { LoginPage } from "../../pages/Login";
 describe("Login Page", () => {
   beforeEach(() => {
     cy.visit(`${Cypress.env("demoQA")}/login`);

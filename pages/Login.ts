@@ -8,7 +8,10 @@ class Login {
     cy.get(this.userName).type("test");
     cy.get(this.password).type("Test1234*");
     cy.get(this.loginButton).click();
+    cy.contains("Log out");
   }
 }
 
 export const LoginPage = new Login();
+
+//LoginPage.submitButtonLogin

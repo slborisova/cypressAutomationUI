@@ -39,6 +39,8 @@ describe("EXPECTED CONDITIONS", () => {
  it('Wait for element to be enabled', () => {
     cy.get('[id="enabled_target"]').should("be.visible").and("exist").contains("button","Disabled Button")
     cy.get('[id="enabled_trigger"]').should("be.visible").and("exist").click()
+    cy.get('[id="enabled_trigger"]').should("have.attr", "class", "btn btn-primary")
+    //cy.get('[id="enabled_trigger"]').find('[role="status"]').should("have.attr", "class", "")
     cy.get('[id="enabled_target"]').should("have.text", 'Enabled Button').click()
     cy.contains('.popover-header', 'Yay! I am super active now!')
     cy.contains('.popover-body', 'See, you just clicked me!!')

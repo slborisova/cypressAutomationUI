@@ -36,6 +36,6 @@ obj.open_page
 
 
 GIT
-1. git add .     --add all files to git
-2. git commit -m 'text'     --commit (changes)
-3. git push origin master   --push to GitHub
+1. git add .     //add all files to git
+2. git commit -m 'text'     //commit (changes)
+3. git push origin master   //push to GitHub

@@ -1,5 +1,5 @@
 import { LoginPage } from "../../pages/login";
-Cypress.session.clearAllSavedSessions()
+Cypress.session.clearAllSavedSessions();
 describe("COOKIES", () => {
   beforeEach(() => {
     cy.session("myCurrentSession", () => {
@@ -13,7 +13,7 @@ describe("COOKIES", () => {
   });
   beforeEach(() => {
     cy.intercept({ resourceType: /xhr|fetch/ }, { log: false });
-  })
+  });
   it("create cookies with cy.session", () => {
     cy.visit(`${Cypress.env("demoQA")}/login`);
     cy.url().then((url) => {

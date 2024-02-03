@@ -8,13 +8,16 @@ export default defineConfig({
             // implement node event listeners here
         },
         env: {
-            stage: 'https://stage.pasv.us/course',
+            stage: 'https://stage.pasv.us/user/login',
             prod: 'https://coding.pasv.us/course',
             test: 'Hello World!',
             demoQA:'https://demoqa.com',
-            expected_conditions: 'https://play1.automationcamp.ir/expected_conditions.html'
+            expected_conditions: 'https://play1.automationcamp.ir/expected_conditions.html',
+            email: 'slborisova@gmail.com',
+            password: 'Oolleegg1'
         },
     },
+    
     
     defaultCommandTimeout: 16000
 });

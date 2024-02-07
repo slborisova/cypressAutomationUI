@@ -13,8 +13,7 @@ export default defineConfig({
             test: 'Hello World!',
             demoQA:'https://demoqa.com',
             expected_conditions: 'https://play1.automationcamp.ir/expected_conditions.html',
-            email: 'slborisova@gmail.com',
-            password: 'Oolleegg1'
+            herokuapp: 'https://the-internet.herokuapp.com'
         },
     },
     

@@ -1,7 +1,7 @@
 class Alert {
   private alertTextButton: string = "Click for JS Alert";
   private buttonSelector: string = "button";
-  private buttonPropmtText: string = "Click for JS Prompt";
+   private buttonPropmtText: string = "Click for JS Prompt";
   //popupWindowText
   private jsAlertText: string = "I am a JS Alert";
   private jsConfirmWindowText: string = "I am a JS Confirm";

@@ -18,6 +18,7 @@ describe("COOKIES", () => {
     cy.visit(`${Cypress.env("demoQA")}/login`);
     cy.url().then((url) => {
       cy.log(url);
+      console.log(url);
     });
   });
   //no cookies in the database

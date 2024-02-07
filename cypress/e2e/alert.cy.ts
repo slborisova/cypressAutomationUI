@@ -9,8 +9,8 @@ describe("ALERT", () => {
   it("Click for JS Confirm OK", () => {
     AlertPage.jsConfirm();
   });
-  it("Click for JS Confirm FALSE", () => {
-    //Homework
+  it("Click for JS Confirm CANCEL", () => {
+    AlertPage.jsConfirmCancel();
   });
   it("Click for JS Prompt OK/true", () => {
     AlertPage.jsPrompt();

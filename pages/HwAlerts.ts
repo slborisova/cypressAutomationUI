@@ -12,8 +12,9 @@ class HwAlert {
   private jsconfirmButtonTextCancel: string = "You selected Cancel";
   private resultSelector: string = "#confirmResult";
 
-  // private promptButtonSelector: string = "#promtButton";
-  // private js
+  private promptButtonSelector: string = "#promtButton";
+  private jsPromptWindowText: string = "Please enter your name";
+  private promptResultSelector: string = "#promptResult";
 
   jsAlert() {
     cy.get(this.alertButtonSelector).click();
@@ -51,7 +52,13 @@ class HwAlert {
     );
   }
 
-  // jsPromptButton() {
+  jsPromptButton() {
+    cy.window().then(($win) => {
+      cy.stub($win, "prompt").returns("Jane");
+      cy.get(this.promptButtonSelector).click();
+    });
+    cy.get(this.promptResultSelector).should("have.text", "You entered Jane");
+  }
 }
 
 export const HwAlertPage = new HwAlert();

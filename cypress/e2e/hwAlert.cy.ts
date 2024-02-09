@@ -15,7 +15,7 @@ describe("HWALERT", () => {
   it("Click confirm button Cancel", () => {
     HwAlertPage.jsConfirmButtonCancel();
   });
-  // it("Click prompt button", () => {
-  //     HwAlertPage.jsPromptButton();
-  // });
+  it("Click prompt button", () => {
+    HwAlertPage.jsPromptButton();
+  });
 });

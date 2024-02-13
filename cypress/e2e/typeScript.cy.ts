@@ -28,14 +28,21 @@ type stringTestType = {
     lastName:string,
     firstName:string
 }
-function fullName(a:stringTestType,b:stringTestType):void {
+interface stringTestType2 = {
+    lastName:string,
+    firstName:string
+}
+function fullName(a:stringTestType, b:stringTestType):void {
     console.log('My full name is ' + a.lastName + ' ' + b.firstName);
 }
+
+
+
 let obj = {
     key:val
 }
 string2(2,"2")
-string2(2,2)
+string2(2, 2)
 
 //TS => JS
 

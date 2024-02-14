@@ -21,7 +21,7 @@ describe("HWIFRAME", () => {
     HwIFramePage.getFrame4();
   });
 
-  it.skip("test hmIFrame1 Extention", () => {
+  it("test hmIFrame1 Extention", () => {
     HwIFramePage.getHmIFrame1Extention();
   });
 

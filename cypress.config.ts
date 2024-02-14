@@ -20,6 +20,10 @@ export default defineConfig({
       play1: "https://play1.automationcamp.ir"
     },
   },
-
-  defaultCommandTimeout: 16000,
+  retries:{
+    runMode: 2,
+    openMode: 2
+  },
+  
+   defaultCommandTimeout: 16000,
 });

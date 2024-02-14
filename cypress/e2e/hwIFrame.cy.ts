@@ -5,13 +5,31 @@ describe("HWIFRAME", () => {
     HwIFramePage.visit();
   });
 
-  it("test hmIFrame1", () => {
-    HwIFramePage.getHmIFrame1();
+  it("test Frame1 Title", () => {
+    HwIFramePage.getFrame1();
   });
-  it("test hmIFrame2", () => {
-    HwIFramePage.getHmIFrame2();
+
+  it("test Frame2 Title", () => {
+    HwIFramePage.getFrame2();
   });
-  it("test hmIFrame3", () => {
-    HwIFramePage.getHmIFrame3();
+
+  it("test Frame3 Title", () => {
+    HwIFramePage.getFrame3();
+  });
+
+  it("test Frame4 Title", () => {
+    HwIFramePage.getFrame4();
+  });
+
+  it.skip("test hmIFrame1 Extention", () => {
+    HwIFramePage.getHmIFrame1Extention();
+  });
+
+  it("test hmIFrame2 Extention", () => {
+    HwIFramePage.getHmIFrame2Extention();
+  });
+
+  it("test hmIFrame3 Extention", () => {
+    HwIFramePage.getHmIFrame3Extention();
   });
 });

@@ -13,7 +13,7 @@ class HwIFrame {
   private iframeTitleSelector = ".navbar-brand";
 
   visit() {
-    cy.visit(`${Cypress.env("play1")}/frames`);
+    cy.visit(`${Cypress.env("play1")}/frames.html`);
   }
 
   getFrame1() {

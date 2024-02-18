@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "open": "cypress open --e2e --browser chrome",
-    "open2": "cypress open --e2e"
+    "open2": "cypress open --e2e",
+    "prettier": "npx prettier . --write",
+    "cypress-run": "cypress run --browser chrome --spec cypress/e2e/autoFill.cy.ts"
   },
   "keywords": [],
   "author": "Svetlana Borisova",
@@ -13,6 +15,8 @@
   "devDependencies": {
     "cypress": "^13.6.4",
     "cypress-iframe": "^1.0.1",
+    "cypress-mochawesome-reporter": "^3.8.1",
+    "prettier": "3.2.5",
     "typescript": "^5.3.3"
   },
   "dependencies": {

@@ -1,12 +1,14 @@
 import { defineConfig } from "cypress";
-require("dotenv").config();
 
+// require("dotenv").config();
 export default defineConfig({
-  chromeWebSecurity: false,
+  reporter: "cypress-mochawesome-reporter",
+  // chromeWebSecurity: false,
   e2e: {
     baseUrl: "https://uitestingplayground.com",
     //baseUrl: 'https://play1.automationcamp.ir',
     setupNodeEvents(on, config) {
+      require("cypress-mochawesome-reporter/plugin")(on);
       // implement node event listeners here
     },
     env: {
@@ -17,13 +19,21 @@ export default defineConfig({
       expected_conditions:
         "https://play1.automationcamp.ir/expected_conditions.html",
       herokuapp: "https://the-internet.herokuapp.com",
-      play1: "https://play1.automationcamp.ir"
+      play1: "https://play1.automationcamp.ir",
     },
   },
-  retries:{
-    runMode: 2,
-    openMode: 2
+  retries: {
+    runMode: 3,
+    openMode: 2,
   },
-  
-   defaultCommandTimeout: 16000,
+  video: true,
+  screenshotOnRunFailure: true,
+  defaultCommandTimeout: 16000,
+  reporterOptions: {
+    charts: true,
+    reportPageTitle: "LecturePASV",
+    embeddedScreenshots: true,
+    inlineAssets: true,
+    saveAllAttempts: false,
+  },
 });

@@ -1,0 +1,3058 @@
+{
+    "message": "Course loaded",
+    "success": true,
+    "fail": false,
+    "payload": {
+        "sellOptions": [],
+        "_id": "5d1cbf67086fc30038bf1859",
+        "description": "Функции, методы строк, массивов, чисел, работа с объектами. Много задач. \n\nЭтот курс можно начать, если у вас роль 'student' и вы закончили курс JS Syntax. ",
+        "members": [],
+        "sections": [
+            {
+                "accessType": "all",
+                "_id": "5d2a081562cf140038fe221c",
+                "lessons": [
+                    {
+                        "edgeFree": false,
+                        "_id": "5d2a083562cf140038fe221d",
+                        "video": "https://youtu.be/8QysOiXOSCI",
+                        "description": "В этом уроке мы рассмотрим структуру курса JavaScript Practice.",
+                        "active": false,
+                        "cwChallenges": [],
+                        "questionGroups": [
+                            {
+                                "_id": "5daf7bbb21865f003857d93e",
+                                "name": "JS Practice. Введение. О курсе "
+                            }
+                        ],
+                        "name": "О курсе",
+                        "edge": false,
+                        "challenges": []
+                    },
+                    {
+                        "edgeFree": false,
+                        "challenges": [],
+                        "_id": "5d2a085762cf140038fe221e",
+                        "video": "https://youtu.be/1htJnUxrAfI",
+                        "description": "Настало время применить полученные знания JavaScript Syntax на практике, а для этого необходимо создать профиль на популярном ресурсе для решения задач **Codewars.com**.",
+                        "active": true,
+                        "cwChallenges": [],
+                        "questionGroups": [
+                            {
+                                "_id": "5daf90de21865f003857d9a4",
+                                "name": "JS Practice. Регистрация на Codewars"
+                            }
+                        ],
+                        "name": "Регистрация на Codewars",
+                        "edge": false
+                    },
+                    {
+                        "edgeFree": false,
+                        "challenges": [],
+                        "_id": "5d2a08ef62cf140038fe221f",
+                        "video": "https://youtu.be/pBaC6RDBWrg",
+                        "description": "В этом уроке мы познакомимся с навигацией по сайту **Codewars.com**.",
+                        "active": false,
+                        "cwChallenges": [],
+                        "questionGroups": [
+                            {
+                                "_id": "5dca001b10732b003c617656",
+                                "name": "JS Practice. Как работает Codewars"
+                            }
+                        ],
+                        "name": "Как работает Codewars",
+                        "edge": false
+                    },
+                    {
+                        "edgeFree": false,
+                        "challenges": [],
+                        "_id": "5d2a0c8162cf140038fe2220",
+                        "video": "https://youtu.be/Bj3nnCb73pA",
+                        "description": "В этом уроке мы узнаем, каким образом проверить, что наши решения задач работают.",
+                        "active": false,
+                        "cwChallenges": [],
+                        "questionGroups": [
+                            {
+                                "_id": "5dcbfd39c500ee003cffb52f",
+                                "name": "JS Practice. Что такое Unit Testing и как это работает"
+                            }
+                        ],
+                        "name": "Что такое Unit Testing и как это работает",
+                        "edge": false
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5d2a0c9662cf140038fe2221",
+                        "video": "https://youtu.be/2mvEynnnSDs",
+                        "description": "Начинаем решать задачи. Вперед, code warriors!",
+                        "active": false,
+                        "cwChallenges": [
+                            "523b4ff7adca849afe000035",
+                            "55a70521798b14d4750000a4",
+                            "50ee6b0bdeab583673000025"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5dd75ed22b831e003ca425c9",
+                                "name": "JS Practice. Hello World!"
+                            }
+                        ],
+                        "name": "Hello World!",
+                        "edge": false,
+                        "challenges": [
+                            "5e59d118babf1a003cf6b062",
+                            "5e59d1a1babf1a003cf6b066",
+                            "5e59d346babf1a003cf6b075"
+                        ]
+                    }
+                ],
+                "name": "Введение",
+                "owner": "5c6278d25b633f00383b0dfb",
+                "course": "5d1cbf67086fc30038bf1859",
+                "createdAt": "2019-07-13T16:34:29.922Z",
+                "updatedAt": "2019-11-27T20:36:04.844Z",
+                "__v": 5
+            },
+            {
+                "accessType": "all",
+                "_id": "5d2a0fc662cf140038fe223f",
+                "lessons": [
+                    {
+                        "edgeFree": false,
+                        "_id": "5d2a106b62cf140038fe2240",
+                        "video": "https://youtu.be/7a72UgOcBkA",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "5a023c426975981341000014",
+                            "5a03b3f6a1c9040084001765",
+                            "57f24e6a18e9fad8eb000296",
+                            "59c287b16bddd291c700009a",
+                            "534ea96ebb17181947000ada",
+                            "55f9bca8ecaa9eac7100004a",
+                            "56200d610758762fb0000002",
+                            "571edd157e8954bab500032d",
+                            "557b5e0bddf29d861400005d",
+                            "55a75e2d0803fea18f00009d",
+                            "560ecf0cb040de130e00007d",
+                            "55ca77fa094a2af31f00002a",
+                            "588417e576933b0ec9000045",
+                            "589478160c0f8a40870000bc",
+                            "59fc72fe235f93838b002235",
+                            "53ee5429ba190077850011d4",
+                            "5aba780a6a176b029800041c",
+                            "523b623152af8a30c6000027",
+                            "589519d1f0902e01af000054",
+                            "5520714decb43308ea000083"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5dd1aed099a49e003c9e0a78",
+                                "name": "JS Practice. Чистая арифметика"
+                            }
+                        ],
+                        "name": "Чистая арифметика",
+                        "edge": false,
+                        "challenges": [
+                            "5e60291f5da3d7003c26907a",
+                            "5e602d915da3d7003c2690ce",
+                            "5e6028db5da3d7003c269074",
+                            "5e6029f55da3d7003c26908f",
+                            "5e602b115da3d7003c2690a2",
+                            "5e602bd15da3d7003c2690aa",
+                            "5e602c8c5da3d7003c2690bd",
+                            "5e602cff5da3d7003c2690c3",
+                            "5e602d5a5da3d7003c2690ca",
+                            "5e602de95da3d7003c2690d2",
+                            "5e602ee65da3d7003c2690fd",
+                            "5e602f6e5da3d7003c269111",
+                            "5e6030445da3d7003c269135",
+                            "5e60308f5da3d7003c26913a",
+                            "5e60312c5da3d7003c269145",
+                            "5e60316f5da3d7003c26914c",
+                            "5e6031a95da3d7003c269153",
+                            "5e9dc1f4b34920003c014475"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5d2a108c62cf140038fe2241",
+                        "video": "https://youtu.be/KGl5hEz7PTs",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "5a2e9ae2b6cfd7692a0000ba",
+                            "55a5bfaa756cfede78000026",
+                            "53369039d7ab3ac506000467",
+                            "56aed32a154d33a1f3000018",
+                            "55a996e0e8520afab9000055",
+                            "564a6486c2070faee6000011"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5dc9ffc210732b003c61764f",
+                                "name": "JS Practice. Определение типа данных"
+                            }
+                        ],
+                        "name": "Типы данных. Определение типа данных",
+                        "edge": false,
+                        "challenges": [
+                            "5e61a2f500628d003c7e4b5b",
+                            "5e61a38700628d003c7e4b5f",
+                            "5e61a43500628d003c7e4b69",
+                            "5e61a55100628d003c7e4b7e",
+                            "5e61a5c100628d003c7e4b92",
+                            "5e61a62a00628d003c7e4b99",
+                            "5e61a69200628d003c7e4ba1"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5dd377c95f1c3e003c226c66",
+                        "video": "https://youtu.be/RnLsdDayyjo",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "544675c6f971f7399a000e79",
+                            "5265326f5fda8eb1160004c8",
+                            "551b4501ac0447318f0009cd",
+                            "5966e33c4e686b508700002d"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5dd47cf9d56699003c11ce4f",
+                                "name": "JS Practice. Преобразование типов"
+                            }
+                        ],
+                        "name": "Преобразование типов",
+                        "edge": false,
+                        "challenges": [
+                            "5e670ba9ba4754003c835e2f",
+                            "5e670be8ba4754003c835e36",
+                            "5e670c2cba4754003c835e3b",
+                            "5e670c64ba4754003c835e42",
+                            "5e670caeba4754003c835e51",
+                            "5e670d09ba4754003c835e5b",
+                            "5e670d6dba4754003c835e6a",
+                            "5e670de5ba4754003c835e75",
+                            "5e670e47ba4754003c835e7f",
+                            "5e671263ba4754003c835eb9"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5dce263f4e67b9003c97d90d",
+                        "video": "https://youtu.be/_NV_UNCVPI0",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "5a3fe3dde1ce0e8ed6000097",
+                            "552564a82142d701f5001228",
+                            "5748838ce2fab90b86001b1a",
+                            "59342039eb450e39970000a6",
+                            "582cb0224e56e068d800003c",
+                            "5641a03210e973055a00000d",
+                            "58249d08b81f70a2fc0001a4",
+                            "57efcb78e77282f4790003d8",
+                            "56426b4e971f01fd2f00005b",
+                            "5641c3f809bf31f008000042",
+                            "5e96332d18ac870032eb735f"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5dd2de3f5f1c3e003c226297",
+                                "name": "JS Practice. Математические функции и константы"
+                            }
+                        ],
+                        "name": "Математические функции и константы",
+                        "edge": false,
+                        "challenges": [
+                            "5e6032b45da3d7003c26916f",
+                            "5e6033315da3d7003c269176",
+                            "5e6033e35da3d7003c26918d",
+                            "5e6034945da3d7003c26919f",
+                            "5e6034fc5da3d7003c2691aa",
+                            "5e60355f5da3d7003c2691b6",
+                            "5e6035f85da3d7003c2691be",
+                            "5e6036795da3d7003c2691c6",
+                            "5e60370a5da3d7003c2691cd",
+                            "5e60379f5da3d7003c2691d7",
+                            "5e60382b5da3d7003c2691ea",
+                            "5e6038895da3d7003c2691f6",
+                            "5e6038cc5da3d7003c2691f8",
+                            "5e60392c5da3d7003c2691fc",
+                            "5e6039b35da3d7003c269200",
+                            "5e603a045da3d7003c269204",
+                            "5e603a6b5da3d7003c26920f",
+                            "5e603ae05da3d7003c26921a",
+                            "5e603b635da3d7003c269220",
+                            "5e670b0dba4754003c835e24",
+                            "5e9dc23db34920003c01447c"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5ddf07af1a1ed1003c32d98c",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "edge": false,
+                        "cwChallenges": [
+                            "570669d8cb7293a2d1001473",
+                            "57f6ecdfcca6e045d2001207",
+                            "55cb632c1a5d7b3ad0000145",
+                            "59ca8246d751df55cc00014c",
+                            "571f832f07363d295d001ba8"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5de09af463f733003ce35876",
+                                "name": "JS  Practice. Понятие условия"
+                            }
+                        ],
+                        "name": "Понятие условия",
+                        "challenges": [
+                            "5e6853ebcd25ef003c6990b7",
+                            "5e68543acd25ef003c6990bf",
+                            "5e685473cd25ef003c6990c4",
+                            "5e6854c8cd25ef003c6990cd",
+                            "5e685560cd25ef003c6990dd",
+                            "5e685511cd25ef003c6990d6",
+                            "5e6855ebcd25ef003c6990e0",
+                            "5e685642cd25ef003c6990e2",
+                            "5e685725cd25ef003c6990fb",
+                            "5e68567ccd25ef003c6990e4",
+                            "5e6857e1cd25ef003c69910a",
+                            "5e68583acd25ef003c699111",
+                            "5e6858a8cd25ef003c69911c",
+                            "5e6858ebcd25ef003c699124",
+                            "5e685947cd25ef003c69912a",
+                            "5e685980cd25ef003c69912d",
+                            "5e6859d2cd25ef003c699131",
+                            "5e685a25cd25ef003c699134",
+                            "5e685a91cd25ef003c699137",
+                            "5e685ac9cd25ef003c69913a",
+                            "5e685b61cd25ef003c699163",
+                            "5e685baecd25ef003c699169",
+                            "5e685be8cd25ef003c69916f",
+                            "5e685c4acd25ef003c69917f"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5d2a141a62cf140038fe227d",
+                        "video": "https://youtu.be/4Uc51ZznmbU",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "583710ccaa6717322c000105",
+                            "53da3dbb4a5168369a0000fe",
+                            "56530b444e831334c0000020",
+                            "57a429e253ba3381850000fb",
+                            "574b3b1599d8f897470018f6",
+                            "580a094553bd9ec5d800007d",
+                            "5ab6538b379d20ad880000ab",
+                            "57e921d8b36340f1fd000059",
+                            "57158fb92ad763bb180004e7",
+                            "57b58827d2a31c57720012e8",
+                            "55cb854deb36f11f130000e1",
+                            "55cbd4ba903825f7970000f5",
+                            "55afed09237df73343000042",
+                            "571f832f07363d295d001ba8",
+                            "57d448c6ba30875437000138",
+                            "5a6663e9fd56cb5ab800008b",
+                            "57089707fe2d01529f00024a",
+                            "56368f37d464c0a43c00007f",
+                            "5761a717780f8950ce001473",
+                            "5875b200d520904a04000003"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5dd3736b5f1c3e003c226c41",
+                                "name": "JS Practice. Условный оператор If else"
+                            }
+                        ],
+                        "name": "Условный оператор if else",
+                        "edge": false,
+                        "challenges": [
+                            "5e69b4c8374af1003c968621",
+                            "5e69b525374af1003c968626",
+                            "5e69b56a374af1003c96862a",
+                            "5e69b5a1374af1003c96862c",
+                            "5e69b643374af1003c968636",
+                            "5e69b6a6374af1003c968648",
+                            "5e6c148cf88ac0003c2f669e",
+                            "5e6c15c2f88ac0003c2f66bb",
+                            "5e6c14f8f88ac0003c2f66a6",
+                            "5e6c154cf88ac0003c2f66ad",
+                            "5e6c161bf88ac0003c2f66c2",
+                            "5e6c165af88ac0003c2f66c9",
+                            "5e6c16a2f88ac0003c2f66cd",
+                            "5e6c1723f88ac0003c2f66da",
+                            "5e6c16e0f88ac0003c2f66d6",
+                            "5e6c1772f88ac0003c2f66e3",
+                            "5e6c182ef88ac0003c2f66fa",
+                            "5e6c1878f88ac0003c2f6702",
+                            "5e6c1904f88ac0003c2f6711",
+                            "5e6c1956f88ac0003c2f671a"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5ddc43e2a9ccbf003caa26d3",
+                        "video": "https://youtu.be/_jeTKXptso8",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "5545f109004975ea66000086",
+                            "5ad0d8356165e63c140014d4",
+                            "568dcc3c7f12767a62000038",
+                            "5672a98bdbdd995fad00000f",
+                            "56606694ec01347ce800001b"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5dd4a15ed56699003c11d03c",
+                                "name": "JS Practice. Логический оператор И"
+                            }
+                        ],
+                        "name": "Логический оператор И ( && )",
+                        "edge": false,
+                        "challenges": [
+                            "5e69b7b1374af1003c96865f",
+                            "5e69b75f374af1003c96865b",
+                            "5e69b6f8374af1003c968657",
+                            "5e69b5f5374af1003c96862e",
+                            "5e6c1aeff88ac0003c2f6736",
+                            "5e6c1b41f88ac0003c2f6739",
+                            "5e6c1b81f88ac0003c2f673c"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5d2eb5520f1c8500385e7063",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "58e0bd6a79716b7fcf0013b1",
+                            "53af2b8861023f1d88000832"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5dddd6d8d845c8003ce56edb",
+                                "name": "JS  Practice. Логический оператор ИЛИ"
+                            }
+                        ],
+                        "name": "Логический оператор ИЛИ ( || )",
+                        "edge": false,
+                        "challenges": [
+                            "5e6c53ebf88ac0003c2f6abf",
+                            "5e6c542ef88ac0003c2f6ac3",
+                            "5e6c5600f88ac0003c2f6ae5",
+                            "5e6c5675f88ac0003c2f6af5",
+                            "5e6c56def88ac0003c2f6b05",
+                            "5e6c5803f88ac0003c2f6b11",
+                            "5e6e4964d29f80003cd913cd",
+                            "5e6e499ed29f80003cd913cf",
+                            "5e6ff464dadf84003c1ee575",
+                            "5e744d423264c4003c22647c"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5ddf08091a1ed1003c32d990",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "edge": false,
+                        "cwChallenges": [
+                            "52ceafd1f235ce81aa00073a",
+                            "56d6c333c9ae3fc32800070f"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5de0a0c462a8e5003cbaa7db",
+                                "name": "JS  Practice. Логический оператор НЕ "
+                            }
+                        ],
+                        "name": "Логический оператор НЕ ( ! )",
+                        "challenges": [
+                            "5e6c1c26f88ac0003c2f6747",
+                            "5e6c1cfdf88ac0003c2f674e",
+                            "5e6ff363dadf84003c1ee567",
+                            "5e6ff3e7dadf84003c1ee56e",
+                            "5e715d8d52900f003ce99381"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5ddc433fa9ccbf003caa26c3",
+                        "video": "https://youtu.be/r4jotwkSHjI",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "56f6ad906b88de513f000d96",
+                            "55cb632c1a5d7b3ad0000145",
+                            "53369039d7ab3ac506000467",
+                            "56f6919a6b88de18ff000b36",
+                            "56f3f6a82010832b02000f38",
+                            "57202aefe8d6c514300001fd",
+                            "525e5a1cb735154b320002c8",
+                            "5a6d3bd238f80014a2000187",
+                            "5dd259444228280032b1ed2a"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5ddcb219a9ccbf003caa2df3",
+                                "name": "JS  Practice. Тернарный оператор"
+                            }
+                        ],
+                        "name": "Тернарный оператор",
+                        "edge": false,
+                        "challenges": [
+                            "5e7042b3dadf84003c1ee9b1",
+                            "5e703ffadadf84003c1ee982",
+                            "5e7040c9dadf84003c1ee995",
+                            "5e70406adadf84003c1ee98c",
+                            "5e704122dadf84003c1ee9a3",
+                            "5e704271dadf84003c1ee9af",
+                            "5e7042fcdadf84003c1ee9b5"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5dcf79a4d95082003c265630",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "57356c55867b9b7a60000bd7",
+                            "5808dcb8f0ed42ae34000031",
+                            "5810085c533d69f4980001cf",
+                            "515e188a311df01cba000003",
+                            "5296455e4fe0cdf2e000059f",
+                            "572059afc2f4612825000d8a"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5dd5f858b51a0b003c0b57c4",
+                                "name": "JS Practice. Оператор выбора switch"
+                            }
+                        ],
+                        "name": "Оператор выбора switch",
+                        "edge": false,
+                        "challenges": [
+                            "5e715de152900f003ce99386",
+                            "5e715e6952900f003ce99399",
+                            "5e715f3652900f003ce993a6",
+                            "5e715fcd52900f003ce993b1",
+                            "5e71606752900f003ce993c2",
+                            "5e72786fddc84a003ca75e89",
+                            "5e727937ddc84a003ca75e8e",
+                            "5e727b1cddc84a003ca75e9a",
+                            "5e727b6addc84a003ca75e9d",
+                            "5e727bb7ddc84a003ca75ea3",
+                            "5e727c1bddc84a003ca75ea6",
+                            "5e727c6addc84a003ca75eab",
+                            "5e853cc02d4bc5003c6f5435"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5dce2b744e67b9003c97d922",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "558f9f51e85b46e9fa000025",
+                            "57be674b93687de78c0001d9",
+                            "57a049e253ba33ac5e000212",
+                            "534d0a229345375d520006a0",
+                            "5b0d67c1cb35dfa10b0022c7",
+                            "570a6a46455d08ff8d001002",
+                            "562f91ff6a8b77dfe900006e",
+                            "58c9322bedb4235468000019",
+                            "563f037412e5ada593000114",
+                            "58e230e5e24dde0996000070",
+                            "564f458b4d75e24fc9000041",
+                            "5676f07029da352ba2000065"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5ddefcde1a1ed1003c32d916",
+                                "name": " JS Practice. Цикл while"
+                            }
+                        ],
+                        "name": "Понятие цикла. Цикл while",
+                        "edge": false,
+                        "challenges": [
+                            "5e73016aa14cc0003ce9a095",
+                            "5e730209a14cc0003ce9a0a3",
+                            "5e7301c3a14cc0003ce9a09b",
+                            "5e730252a14cc0003ce9a0ab",
+                            "5e730128a14cc0003ce9a093",
+                            "5e7300d5a14cc0003ce9a090",
+                            "5e730058a14cc0003ce9a086",
+                            "5e74484f3264c4003c2263ac",
+                            "5e7448f93264c4003c2263e2",
+                            "5e7449713264c4003c22640f"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5ddc369ba9ccbf003caa2675",
+                        "video": "https://youtu.be/wt8qMI9I-nw",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "55d24f55d7dd296eb9000030",
+                            "555eded1ad94b00403000071",
+                            "57241e0f440cd279b5000829",
+                            "5b4e779c578c6a898e0005c5",
+                            "55f2b110f61eb01779000053",
+                            "544aed4c4a30184e960010f4",
+                            "5721a78c283129e416000999",
+                            "542c0f198e077084c0000c2e",
+                            "580878d5d27b84b64c000b51",
+                            "55b1e5c4cbe09e46b3000034"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5ddf1c481a1ed1003c32da4c",
+                                "name": "JS  Practice. Цикл for"
+                            }
+                        ],
+                        "name": "Цикл for",
+                        "edge": false,
+                        "challenges": [
+                            "5e744e193264c4003c226493",
+                            "5e744e5e3264c4003c226498",
+                            "5e744e9b3264c4003c22649c",
+                            "5e744edd3264c4003c22649f",
+                            "5e744f293264c4003c2264a2",
+                            "5e7450bd3264c4003c2264bf",
+                            "5e7451573264c4003c2264c6",
+                            "5e7451cb3264c4003c2264cc",
+                            "5e759cfa60bec2003c3aeee3",
+                            "60c0116c531747003aa63962"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5ddf01541a1ed1003c32d96a",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "edge": false,
+                        "cwChallenges": [
+                            "562926c855ca9fdc4800005b",
+                            "5a58d46cfd56cb4e8600009d",
+                            "55d1d6d5955ec6365400006d",
+                            "57216d4bcdd71175d6000560"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5ddf1fe11a1ed1003c32daae",
+                                "name": "JS  Practice. Цикл do while "
+                            }
+                        ],
+                        "name": "Цикл  do while",
+                        "challenges": [
+                            "5e7452783264c4003c2264df",
+                            "5e7452f83264c4003c2264ed",
+                            "5e74535b3264c4003c2264f0",
+                            "5e759b1e60bec2003c3aee9b",
+                            "5e759b6f60bec2003c3aeeaa",
+                            "5e759bdb60bec2003c3aeeba",
+                            "5e759c2460bec2003c3aeec0",
+                            "5e759c6160bec2003c3aeecb",
+                            "5e759c9c60bec2003c3aeed6"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5ddc36baa9ccbf003caa2679",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "5721c189cdd71194c1000b9b"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5de14d1462a8e5003cbaab30",
+                                "name": "JS  Practice. Прерывание циклов"
+                            }
+                        ],
+                        "name": "Прерывание циклов",
+                        "edge": false,
+                        "challenges": [
+                            "5e7a9ac7d1bfbc003cf5cff4",
+                            "5e7a9c25d1bfbc003cf5d01d",
+                            "5e7a9c8ad1bfbc003cf5d026",
+                            "5e7a9d37d1bfbc003cf5d03f",
+                            "5e7a9d9fd1bfbc003cf5d04b",
+                            "5e7a9e04d1bfbc003cf5d053"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5ddc3688a9ccbf003caa2672",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "5635e7cb49adc7b54500001c",
+                            "574c5075d27783851800169e"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5de1670162a8e5003cbaac6b",
+                                "name": "JS  Practice. Вложенные циклы"
+                            }
+                        ],
+                        "name": "Вложенные циклы",
+                        "edge": false,
+                        "challenges": [
+                            "5e7a9f6bb933c7003c207959",
+                            "5e7a9fc6b933c7003c207961",
+                            "5e7aa021b933c7003c207969",
+                            "5e7aa071b933c7003c20796f",
+                            "5e7aa0c2b933c7003c207974",
+                            "5e7aa126b933c7003c20797d",
+                            "5e7aa1b5b933c7003c20799b"
+                        ]
+                    }
+                ],
+                "name": "Основные конструкции JavaScript",
+                "owner": "5c6278d25b633f00383b0dfb",
+                "course": "5d1cbf67086fc30038bf1859",
+                "createdAt": "2019-07-13T17:07:18.460Z",
+                "updatedAt": "2019-12-18T23:31:29.971Z",
+                "__v": 16
+            },
+            {
+                "accessType": "all",
+                "_id": "5dcf0fc1a9b298003cf84b8b",
+                "lessons": [
+                    {
+                        "edgeFree": false,
+                        "_id": "5dcfabc5d95082003c2659b2",
+                        "video": "",
+                        "description": "**Разберемся, что такое NaN и в каких случаях результат будет ему равен.**",
+                        "active": false,
+                        "cwChallenges": [],
+                        "questionGroups": [
+                            {
+                                "_id": "5dd2f7945f1c3e003c2263d6",
+                                "name": "JS Practice. Число ли это"
+                            }
+                        ],
+                        "name": "Число ли это?",
+                        "edge": false,
+                        "challenges": [
+                            "5e7aa86cb933c7003c207a82",
+                            "5e7aa8c5b933c7003c207a9b",
+                            "5e7aa916b933c7003c207aa4"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5dcfad79d95082003c2659ce",
+                        "video": "",
+                        "description": "**Есть 2 способа проверить, что переданное значение является Not-A-Number (NaN) - это Number.isNaN() и isNaN(). И они отличаются.**",
+                        "active": false,
+                        "cwChallenges": [
+                            "56c24c58e0c0f741d4001aef",
+                            "55b051fac50a3292a9000025"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5dd2c9fb5f1c3e003c226186",
+                                "name": "JS Practice. Number.isNaN() и isNaN()"
+                            }
+                        ],
+                        "name": "Number.isNaN() и isNaN() – проверка на NaN",
+                        "edge": false,
+                        "challenges": [
+                            "5e7aa96db933c7003c207ab4",
+                            "5e7aa9c8b933c7003c207abd"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5ddc56daa9ccbf003caa287f",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "560f8d41cf6e1fe5c900002e"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5ddc58d8a9ccbf003caa28a3",
+                                "name": "JS Practice. Сравнение с NaN"
+                            }
+                        ],
+                        "name": "Сравнение c NaN",
+                        "edge": false,
+                        "challenges": [
+                            "5e7ad1004cde9f003c5aef9a",
+                            "5e7acff94cde9f003c5aef82"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5dcfacbcd95082003c2659cc",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [],
+                        "questionGroups": [
+                            {
+                                "_id": "5dd6d28ec32358003cd59337",
+                                "name": "JS Practice. Плюс, минус бесконечность"
+                            }
+                        ],
+                        "name": "Плюс, минус бесконечность",
+                        "edge": false,
+                        "challenges": [
+                            "5e7bff7448304f003cc4f746",
+                            "5e7bff1648304f003cc4f729"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5dcfac42d95082003c2659c3",
+                        "video": "",
+                        "description": "**Про ограничение JavaScript по работе с очень большими числами, потеря точности при работе с числами.**",
+                        "active": false,
+                        "cwChallenges": [
+                            "55a4f9afeffe4231090000d6"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5dd57a7cb51a0b003c0b4ffa",
+                                "name": "JS Practice. Неточность вычисления"
+                            }
+                        ],
+                        "name": "Неточность вычисления с очень большими и очень маленькими числами",
+                        "edge": false,
+                        "challenges": [
+                            "5e7bffcb48304f003cc4f752",
+                            "5e7c008b48304f003cc4f75a",
+                            "5e7c001348304f003cc4f756",
+                            "5e7c016b48304f003cc4f763"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5dcfa9dcd95082003c265985",
+                        "video": "",
+                        "description": "**Как из положительного числа сделать отрицательное и наоборот.**",
+                        "active": false,
+                        "cwChallenges": [
+                            "5899dc03bc95b1bf1b0000ad",
+                            "56dec885c54a926dcd001095",
+                            "55685cd7ad70877c23000102"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5dd363a25f1c3e003c226a85",
+                                "name": "JS Practice. Смена знака"
+                            }
+                        ],
+                        "name": "Смена знака",
+                        "edge": false,
+                        "challenges": [
+                            "5e7c3093ac5373003c214bd4",
+                            "5e7c3115ac5373003c214bd7",
+                            "5e7c3186ac5373003c214be2",
+                            "5e7c31bbac5373003c214be7",
+                            "5e7ea918c7b2e2003caa8650",
+                            "5e7ea9b6c7b2e2003caa8677",
+                            "5e7eaa1fc7b2e2003caa867b",
+                            "5e7eaaa9c7b2e2003caa867d"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5dcfaa24d95082003c265989",
+                        "video": "",
+                        "description": "**Math.abs() – Абсолютное значение числа (по модулю).**",
+                        "active": false,
+                        "cwChallenges": [
+                            "5c374b346a5d0f77af500a5a",
+                            "5834fec22fb0ba7d080000e8",
+                            "5708f682c69b48047b000e07"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5dd42773d56699003c11c995",
+                                "name": "JS Practice. Math.abs()"
+                            }
+                        ],
+                        "name": "Math.abs() – Абсолютное значение числа",
+                        "edge": false,
+                        "challenges": [
+                            "5e6c1d94f88ac0003c2f6759",
+                            "5e7eab53c7b2e2003caa8691",
+                            "5e7eabadc7b2e2003caa8696",
+                            "5e7eac4dc7b2e2003caa86a0"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5dcfaa95d95082003c265995",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "57f6ad55cca6e045d2000627",
+                            "5546180ca783b6d2d5000062",
+                            "580a094553bd9ec5d800007d",
+                            "5748838ce2fab90b86001b1a",
+                            "59d28768a25c8c51a6000057"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5dd4344ed56699003c11caa1",
+                                "name": "JS Practice. Math.pow()"
+                            }
+                        ],
+                        "name": "Math.pow() – Возведение в степень",
+                        "edge": false,
+                        "challenges": [
+                            "5e7eaccbc7b2e2003caa86ab",
+                            "5e7ead16c7b2e2003caa86ad",
+                            "5e7ead57c7b2e2003caa86b2",
+                            "5e7eadafc7b2e2003caa86b4",
+                            "5e7eae2cc7b2e2003caa86bc",
+                            "5e7eade6c7b2e2003caa86b8"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5dcfadbfd95082003c2659d0",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "56269eb78ad2e4ced1000013",
+                            "54c27a33fb7da0db0100040e",
+                            "57f6ad55cca6e045d2000627",
+                            "5733f948d780e27df6000e33"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5dd6dad7c32358003cd593bb",
+                                "name": "JS Practice. Math.sqrt()"
+                            }
+                        ],
+                        "name": "Math.sqrt() – Квадратный корень",
+                        "edge": false,
+                        "challenges": [
+                            "5e7eb7f5c7b2e2003caa873e",
+                            "5e7eb875c7b2e2003caa8742",
+                            "5e7eb8acc7b2e2003caa8746",
+                            "5e7eb95ec7b2e2003caa874d",
+                            "5e7eb9a4c7b2e2003caa8757"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5dcfadebd95082003c2659d5",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "57be674b93687de78c0001d9",
+                            "534d0a229345375d520006a0",
+                            "5b68c7029756802aa2000176"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5dd6eba0571967003ca86e06",
+                                "name": "JS Practice. Math.log()"
+                            }
+                        ],
+                        "name": "Math.log() – Логарифм числа",
+                        "edge": false,
+                        "challenges": [
+                            "5e826b04126549003c76361b",
+                            "5e826b6e126549003c76362a",
+                            "5e826bfd126549003c76363b"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5dcfaacad95082003c26599b",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "57e92e91b63b6cbac20001e5",
+                            "582cb0224e56e068d800003c",
+                            "55fab1ffda3e2e44f00000c6",
+                            "57a77726bb9944d000000b06",
+                            "5865cff66b5699883f0001aa"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5dd57e16b51a0b003c0b5026",
+                                "name": "JS Practice. Math.floor()"
+                            }
+                        ],
+                        "name": "Math.floor() – Округление к меньшему",
+                        "edge": false,
+                        "challenges": [
+                            "5e826e32126549003c76367f",
+                            "5e826e77126549003c763682",
+                            "5e826ebc126549003c763689",
+                            "5e826f48126549003c76368e",
+                            "5e83cf698b3236003c08adc3",
+                            "5e83cfb58b3236003c08adcf"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5dcfab0ad95082003c2659a9",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "57efcb78e77282f4790003d8",
+                            "52b5247074ea613a09000164"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5dd59817b51a0b003c0b5151",
+                                "name": "JS Practice. Math ceil()"
+                            }
+                        ],
+                        "name": "Math.ceil() – Округление к большему",
+                        "edge": false,
+                        "challenges": [
+                            "5e83d0998b3236003c08ae07",
+                            "5e83d0e78b3236003c08ae17",
+                            "5e83d14e8b3236003c08ae28",
+                            "5e83d1d08b3236003c08ae3f",
+                            "5e853d2f2d4bc5003c6f5443",
+                            "5e8e25e2390385003c1f350b"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5dcfab2fd95082003c2659ab",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "58249d08b81f70a2fc0001a4",
+                            "56be025f9347a066c7000e4f",
+                            "582c42e0f000e54a7d000086"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5dd5b7c5b51a0b003c0b532b",
+                                "name": "JS Practice. Math.round()"
+                            }
+                        ],
+                        "name": "Math.round() – Округление к ближайшему",
+                        "edge": false,
+                        "challenges": [
+                            "5e840bfc8b3236003c08b627",
+                            "5e840c768b3236003c08b648",
+                            "5e840cbe8b3236003c08b652",
+                            "5e840d068b3236003c08b65d"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5dd5dff6b51a0b003c0b5624",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "5641c3f809bf31f008000042",
+                            "55e2adece53b4cdcb900006c",
+                            "564d0490e96393fc5c000029"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5dd71e532b831e003ca4234e",
+                                "name": "JS Practice. Math.trunc()"
+                            }
+                        ],
+                        "name": "Math.trunc() – Возвращение целого числа",
+                        "edge": false,
+                        "challenges": [
+                            "5e853d852d4bc5003c6f544b",
+                            "5e867b7395ecc5003c447ae5"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5dcfac80d95082003c2659c6",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "5d5ee4c35162d9001af7d699",
+                            "559590633066759614000063",
+                            "5e030f77cec18900322c535d"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5dd5c05eb51a0b003c0b53cb",
+                                "name": "JS Practice. Math.min()"
+                            }
+                        ],
+                        "name": "Math.min() – Найти наименьшее",
+                        "edge": false,
+                        "challenges": [
+                            "5e87b31370b87e003cb194fb",
+                            "5e87b38a70b87e003cb1952f",
+                            "5e87b3dc70b87e003cb1954e",
+                            "5e87b4b770b87e003cb19572",
+                            "5e87b51c70b87e003cb19587",
+                            "5e8906cb924085003c5b29e9"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5dcfaca1d95082003c2659ca",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "56b29582461215098d00000f",
+                            "5ae62fcf252e66d44d00008e",
+                            "57a1ae8c7cb1f31e4e000130",
+                            "56d19b2ac05aed1a20000430",
+                            "559cc2d2b802a5c94700000c"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5dd5c588b51a0b003c0b5442",
+                                "name": "JS Practice. Math.max()"
+                            }
+                        ],
+                        "name": "Math.max() – Найти наибольшее",
+                        "edge": false,
+                        "challenges": [
+                            "5e87b5b970b87e003cb195b9",
+                            "5e87b61270b87e003cb195ca",
+                            "5e87b85c70b87e003cb1963e",
+                            "5e87b8b370b87e003cb19645",
+                            "5e89070b924085003c5b29ec"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5dcfab5bd95082003c2659ad",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "562e98755e9214cd2500003d"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5dd5bd19b51a0b003c0b539e",
+                                "name": "JS Practice. Math.random()"
+                            }
+                        ],
+                        "name": "Math.random() – Случайное число",
+                        "edge": false,
+                        "challenges": [
+                            "5e853e7a2d4bc5003c6f546a",
+                            "5e853ebf2d4bc5003c6f5473",
+                            "5e853f072d4bc5003c6f547e",
+                            "5e853f412d4bc5003c6f5488",
+                            "5e853fa92d4bc5003c6f54a2",
+                            "5e853feb2d4bc5003c6f54ad",
+                            "5e8540a12d4bc5003c6f54d5",
+                            "5e8540e22d4bc5003c6f54dd",
+                            "5e8541862d4bc5003c6f54ef",
+                            "5e8541c92d4bc5003c6f54f6",
+                            "5e867af695ecc5003c447ad3"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "challenges": [],
+                        "_id": "5de7289bd889cf003c550726",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "edge": false,
+                        "cwChallenges": [],
+                        "questionGroups": [
+                            {
+                                "_id": "5de9947d66d2e7003c7beedb",
+                                "name": "JS Practice. Prototype"
+                            }
+                        ],
+                        "name": "[[Prototype]], prototype – О наследовании в JavaScript"
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5dcfaf9ed95082003c2659f5",
+                        "video": "https://youtu.be/OicgDMdCoVA",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "5265326f5fda8eb1160004c8",
+                            "551f37452ff852b7bd000139",
+                            "59fca81a5712f9fa4700159a",
+                            "583ade15666df5a64e000058"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5dd82bd1880120003cc800e7",
+                                "name": "JS Practice. Number.prototype.toString()"
+                            }
+                        ],
+                        "name": "Number.prototype.toString() – Число в строку",
+                        "edge": false,
+                        "challenges": [
+                            "5e88ddd2fc1f6e003c42f951",
+                            "5e88de30fc1f6e003c42f962",
+                            "5e88de93fc1f6e003c42f972",
+                            "5e88dedafc1f6e003c42f978",
+                            "5e88df37fc1f6e003c42f984",
+                            "5e88e4b7fc1f6e003c42fa43"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5dcfaffcd95082003c2659f9",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "5890d8bc9f0f422cf200006b",
+                            "5601c5f6ba804403c7000004"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5dd8050c880120003cc7ff2e",
+                                "name": "JS Practice. Number.prototype.toFixed() "
+                            }
+                        ],
+                        "name": "Number.prototype.toFixed() – Количество знаков после запятой",
+                        "edge": false,
+                        "challenges": [
+                            "5e8a77ba7ab2f6003ce48915",
+                            "5e8a78047ab2f6003ce48942",
+                            "5e8a785a7ab2f6003ce48954",
+                            "5e8bcd945a7b07003c6aae2d",
+                            "5e8bcd055a7b07003c6aae13"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5dcfaf6fd95082003c2659f3",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "57a5c31ce298a7e6b7000334",
+                            "57a4d500e298a7952100035d",
+                            "557cd6882bfa3c8a9f0000c1"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5dd81855880120003cc7ffa1",
+                                "name": "JS Practice. Number.parseInt() и parseInt()"
+                            }
+                        ],
+                        "name": "Number.parseInt() и parseInt() – Преобразование строки к целому числу",
+                        "edge": false,
+                        "challenges": [
+                            "5e8d2eb08f936f003c62924f",
+                            "5e8d2f088f936f003c629264",
+                            "5e8e252d390385003c1f34fd"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5dcfaf40d95082003c2659f1",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "57a386117cb1f31890000039"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5dd70f2e2b831e003ca42248",
+                                "name": "JS Practice. Number.parseFloat() и parseFloat()"
+                            }
+                        ],
+                        "name": "Number.parseFloat() и parseFloat() – Преобразование строки к числу с плавающей запятой (точкой)",
+                        "edge": false,
+                        "challenges": [
+                            "5e8d3d3d8f936f003c629477",
+                            "5e8d3ded8f936f003c6294a0",
+                            "5e8d3eed8f936f003c6294c2"
+                        ]
+                    }
+                ],
+                "name": "Методы работы с числами",
+                "owner": "5b7366b42ffb85d6053b8649",
+                "course": "5d1cbf67086fc30038bf1859",
+                "createdAt": "2019-11-15T20:51:13.980Z",
+                "updatedAt": "2019-12-06T03:01:19.881Z",
+                "__v": 22
+            },
+            {
+                "accessType": "all",
+                "_id": "5d33dad60ca4f00038111264",
+                "lessons": [
+                    {
+                        "edgeFree": false,
+                        "_id": "5d33db260ca4f00038111265",
+                        "video": "https://youtu.be/000M24eVYu8",
+                        "description": "Массив, обращение к его элементам, длина массива.",
+                        "active": false,
+                        "cwChallenges": [
+                            "56f69d9f9400f508fb000ba7",
+                            "53dc54212259ed3d4f00071c",
+                            "571effabb625ed9b0600107a",
+                            "5d59576768ba810001f1f8d6"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5dd7421c2b831e003ca424b8",
+                                "name": "JS Practice. Что такое массив (Array)?"
+                            }
+                        ],
+                        "name": "Что такое массив (Array)?",
+                        "edge": false,
+                        "challenges": [
+                            "5e8fb282f43052003c587d79",
+                            "5e8fb2d0f43052003c587d7e",
+                            "5e8fb304f43052003c587d80",
+                            "5e8fb345f43052003c587d89",
+                            "5e8fb387f43052003c587d94",
+                            "5e8fb3caf43052003c587da3",
+                            "5e8fb401f43052003c587da8",
+                            "5e8fb4c2f43052003c587dca",
+                            "5e8fb582f43052003c587ddf",
+                            "5e8fb5dff43052003c587dec"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5dcfb4dfd95082003c265a29",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "57293671c98f77e84b000065",
+                            "582c81d982a0a65424000201"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5dd889b2fc8381003cc5fe4a",
+                                "name": "JS Practice. Как проверить, что это массив"
+                            }
+                        ],
+                        "name": "Как проверить, что это массив",
+                        "edge": false,
+                        "challenges": [
+                            "5e8fdf1ff43052003c588457",
+                            "5e8fdf62f43052003c58845a",
+                            "5e8fe089f43052003c588468",
+                            "5e8fe145f43052003c588473"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5dcf541ea9b298003cf84f14",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "58cb43f4256836ed95000f97",
+                            "54edbc7200b811e956000556",
+                            "5bb904724c47249b10000131",
+                            "57f6ad55cca6e045d2000627",
+                            "58f8a3a27a5c28d92e000144",
+                            "5b097da6c3323ac067000036",
+                            "57faa6ff9610ce181b000028",
+                            "5bbb8887484fcd36fb0020ca",
+                            "5a3e1319b6486ac96f000049"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5de1d95362a8e5003cbab08e",
+                                "name": "JS  Practice. Работа с  элементами массива"
+                            }
+                        ],
+                        "name": "Работа с элементами массива",
+                        "edge": false,
+                        "challenges": [
+                            "5e94c218947719003c93971d",
+                            "5e94c251947719003c939724",
+                            "5e94c283947719003c93972a",
+                            "5e94c2f0947719003c939733",
+                            "5e94c34d947719003c939738",
+                            "5e94c39f947719003c939745",
+                            "5e94c3dc947719003c93974b",
+                            "5e94c41a947719003c939752",
+                            "5e94c4a7947719003c939767",
+                            "5e94c504947719003c93976b",
+                            "5e94c563947719003c939774",
+                            "5e94c5cf947719003c939780",
+                            "5e94c61e947719003c93978a",
+                            "5e94c67a947719003c939791",
+                            "5e94c6d6947719003c9397a0",
+                            "5e94c719947719003c9397ab",
+                            "5e94c753947719003c9397b0",
+                            "5e94c8a7947719003c9397c7",
+                            "5e988f80bda8b0003c90cbc7",
+                            "5ea32979b26554003c13c072",
+                            "60549d830b40af003ae14469"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5dcf5384a9b298003cf84f06",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "515e271a311df0350d00000f",
+                            "5715eaedb436cf5606000381",
+                            "580dda86c40fa6c45f00028a",
+                            "576bb71bbbcf0951d5000044",
+                            "57a2013acf1fa5bfc4000921",
+                            "5601409514fc93442500010b",
+                            "5949481f86420f59480000e7",
+                            "57eaec5608fed543d6000021",
+                            "5abd66a5ccfd1130b30000a9",
+                            "5648b12ce68d9daa6b000099",
+                            "58acfe4ae0201e1708000075",
+                            "586beb5ba44cfc44ed0006c3",
+                            "602afedfd4a64d0008eb4e6e"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5de32449277e6a003ce601f3",
+                                "name": "JS  Practice. Нахождение суммы или произведения элементов массива"
+                            }
+                        ],
+                        "name": "Нахождение суммы или произведения элементов массива",
+                        "edge": false,
+                        "challenges": [
+                            "5e97ab1bb9f63a003cb171f4",
+                            "5e97ab60b9f63a003cb171fd",
+                            "5e97ab96b9f63a003cb17209",
+                            "5e97ac00b9f63a003cb17212",
+                            "5e97ac56b9f63a003cb1721f",
+                            "5e97ad22b9f63a003cb1723f",
+                            "5e97ad9eb9f63a003cb1725c",
+                            "5e97ae12b9f63a003cb17277",
+                            "5f79fc9fe8d9ad003cfc50b3"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5dcf59eda9b298003cf84f53",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "576b93db1129fcf2200001e6",
+                            "577a98a6ae28071780000989",
+                            "563cf89eb4747c5fb100001b",
+                            "56b29582461215098d00000f",
+                            "545a4c5a61aa4c6916000755",
+                            "588a3c3ef0fbc9c8e1000095"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5de46d091c8071003cff1f8f",
+                                "name": "JS  Practice. Нахождение максимального и минимального элемента массива"
+                            }
+                        ],
+                        "name": "Нахождение максимального и минимального элемента массива",
+                        "edge": false,
+                        "challenges": [
+                            "5e971deb968569003cb170e7",
+                            "5e972263968569003cb17135",
+                            "5e89265a924085003c5b2e76",
+                            "5e9723e0968569003cb1714a",
+                            "5e972311968569003cb17140",
+                            "5e97236c968569003cb17148",
+                            "5e97243a968569003cb1714f",
+                            "5e97246f968569003cb17152",
+                            "5e973a35cc952a003c916384",
+                            "5e97a968b9f63a003cb171c9",
+                            "5e97aa8eb9f63a003cb171df"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5dcf72ced95082003c26560e",
+                        "video": "",
+                        "description": "",
+                        "active": true,
+                        "cwChallenges": [
+                            "5513795bd3fafb56c200049e",
+                            "544aed4c4a30184e960010f4",
+                            "55eca815d0d20962e1000106",
+                            "55c28f7304e3eaebef0000da",
+                            "57a083a57cb1f31db7000028",
+                            "57f6ad55cca6e045d2000627",
+                            "5721a78c283129e416000999",
+                            "511f0fe64ae8683297000001",
+                            "527b3cd0492b6b15250060af",
+                            "5546180ca783b6d2d5000062",
+                            "583989556754d6f4c700018e",
+                            "5436f26c4e3d6c40e5000282",
+                            "58f8b35fda19c0c79400020f",
+                            "58ca658cc0d6401f2700045f",
+                            "59ca8e8e1a68b7de740001f4",
+                            "588e27b7d1140d31cb000060"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5de476011c8071003cff2012",
+                                "name": "JS  Practice. Array.prototype.push()"
+                            }
+                        ],
+                        "name": "Array.prototype.push() – Добавление элемента в конец массива",
+                        "edge": false,
+                        "challenges": [
+                            "5e989243bda8b0003c90cc08",
+                            "5e9892c9bda8b0003c90cc15",
+                            "5e9893ebbda8b0003c90cc25",
+                            "5e98950bbda8b0003c90cc37",
+                            "5e989556bda8b0003c90cc43",
+                            "5e989596bda8b0003c90cc4e",
+                            "5e9dc430b34920003c01449c"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5dda369c6846ec003c275ca2",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "571effabb625ed9b0600107a",
+                            "5727bb0fe81185ae62000ae3",
+                            "5a145ab08ba9148dd6000094"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5de5afd88ead2e003c6ff5d3",
+                                "name": "JS Practice. Array.prototype.pop() "
+                            }
+                        ],
+                        "name": "Array.prototype.pop() – Удаление последнего элемента в массиве",
+                        "edge": false,
+                        "challenges": [
+                            "5e989132bda8b0003c90cbe2",
+                            "5e9dc39bb34920003c014499"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5de5c9958ead2e003c6ff6d0",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "edge": false,
+                        "cwChallenges": [
+                            "5a00e05cc374cb34d100000d",
+                            "5413759479ba273f8100003d"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5de5ec998ead2e003c6ff88e",
+                                "name": "JS  Practice. Array.prototype.unshift()"
+                            }
+                        ],
+                        "name": "Array.prototype.unshift() – Добавление элемента в начало массива",
+                        "challenges": [
+                            "5e989074bda8b0003c90cbd4",
+                            "5e759e0f60bec2003c3aef04"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5de5cbe48ead2e003c6ff6ef",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "edge": false,
+                        "cwChallenges": [],
+                        "questionGroups": [
+                            {
+                                "_id": "5de70350d889cf003c550526",
+                                "name": "JS  Practice. Array.prototype.shift()"
+                            }
+                        ],
+                        "name": "Array.prototype.shift() – Удаление первого элемента массива",
+                        "challenges": [
+                            "5f4eb5f51b18dd003c51b2f0",
+                            "5f4eb6421b18dd003c51b533",
+                            "5f4eb6981b18dd003c51b5de",
+                            "5f4eb73b1b18dd003c51bc53"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5d33db930ca4f00038111267",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "57cc975ed542d3148f00015b",
+                            "57cc40b2f8392dbf2a0003ce"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5ddf5dc463f733003ce3507b",
+                                "name": "JS Practice. Array.prototype.includes()"
+                            }
+                        ],
+                        "name": "Array.prototype.includes() – Содержит ли массив искомый элемент",
+                        "edge": false,
+                        "challenges": [
+                            "5f4edd681b18dd003c532613",
+                            "5f4edddd1b18dd003c532659",
+                            "5f4ede741b18dd003c532c2f",
+                            "5f4edee01b18dd003c532dfc"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5d33dbbb0ca4f00038111268",
+                        "video": "",
+                        "description": "",
+                        "active": true,
+                        "cwChallenges": [
+                            "5c8bfa44b9d1192e1ebd3d15",
+                            "56676e8fabd2d1ff3000000c",
+                            "563cf89eb4747c5fb100001b",
+                            "5703c093022cd1aae90012c9",
+                            "57f604a21bd4fe771b00009c",
+                            "5f6d533e1475f30001e47514",
+                            "544a54fd18b8e06d240005c0"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5de00b3863f733003ce353a7",
+                                "name": "JS Practice. Array.prototype.indexOf()"
+                            }
+                        ],
+                        "name": "Array.prototype.indexOf() – Нахождение первого индекса элемента в массиве",
+                        "edge": false,
+                        "challenges": [
+                            "5e9891aabda8b0003c90cbf0",
+                            "5f6e41060ec332003cc5deab",
+                            "5f6e419b0ec332003cc5e4ab",
+                            "5f6e42210ec332003cc5ea4c"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5de01ce063f733003ce35472",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "edge": false,
+                        "cwChallenges": [
+                            "5a3f4eace1ce0eeda600003d"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5de030c063f733003ce354c4",
+                                "name": "JS practice. Array.prototype.lastIndexOf()"
+                            }
+                        ],
+                        "name": "Array.prototype.lastIndexOf() – Нахождение последнего индекса элемента в массиве",
+                        "challenges": [
+                            "5f6e42640ec332003cc5f073",
+                            "5f6e42b40ec332003cc5f372"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5dda33436846ec003c275c81",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "59564f3bcc15b5591a00004a",
+                            "55edaba99da3a9c84000003b",
+                            "5769b3802ae6f8e4890009d2",
+                            "514a6336889283a3d2000001",
+                            "57f222ce69e09c3630000212",
+                            "523f5d21c841566fde000009",
+                            "54599705cbae2aa60b0011a4",
+                            "580435ab150cca22650001fb",
+                            "53dbd5315a3c69eed20002dd",
+                            "57ee4a67108d3fd9eb0000e7",
+                            "55b42574ff091733d900002f",
+                            "583af10620dda4da270000c5"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5de1675462a8e5003cbaac7d",
+                                "name": "JS Practice. Array.prototype.filter()"
+                            }
+                        ],
+                        "name": "Array.prototype.filter() – Фильтрация массива по условию",
+                        "edge": false,
+                        "challenges": []
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5dda335a6846ec003c275c83",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "5a092d9e46d843b9db000064"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5de1b04162a8e5003cbaaf52",
+                                "name": "JS Practice. Array.prototype.find()"
+                            }
+                        ],
+                        "name": "Array.prototype.find() – Найти элемент в массиве",
+                        "edge": false,
+                        "challenges": []
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5dda30bd6846ec003c275c7a",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "5558cc216a7a231ac9000022",
+                            "558dd9a1b3f79dc88e000001"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5de70350d889cf003c550527",
+                                "name": "JS  Practice.  Нахождение дубликатов в массиве"
+                            }
+                        ],
+                        "name": "Нахождение дубликатов в массиве",
+                        "edge": false,
+                        "challenges": []
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5dda30ef6846ec003c275c7c",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "58308360aeb69a460b0002b2",
+                            "580a4001d6df740d61000301",
+                            "586566b773bd9cbe2b000013"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5de7e887d889cf003c550b8a",
+                                "name": "JS  Practice. Удаление дубликатов в массиве. Оставить только уникальные элементы в массиве"
+                            }
+                        ],
+                        "name": "Удаление дубликатов в массиве. Оставить только уникальные элементы в массиве",
+                        "edge": false,
+                        "challenges": []
+                    },
+                    {
+                        "edgeFree": false,
+                        "challenges": [],
+                        "_id": "5dcf89bdd95082003c2656e3",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "5c8bfa44b9d1192e1ebd3d15",
+                            "56f699cd9400f5b7d8000b55",
+                            "5583090cbe83f4fd8c000051"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5de016e163f733003ce35433",
+                                "name": "JS Practice. Array.prototype.reverse() "
+                            }
+                        ],
+                        "name": "Array.prototype.reverse() – Перевернуть массив",
+                        "edge": false
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5dda31346846ec003c275c7e",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "55de9c184bb732a87f000055"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5de04c2e63f733003ce355e6",
+                                "name": "JS Practice. Расположить элементы массива в обратном порядке (без использования метода reverse)"
+                            }
+                        ],
+                        "name": "Расположить элементы массива в обратном порядке (без использования метода reverse)",
+                        "edge": false,
+                        "challenges": []
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5de14b7862a8e5003cbaab29",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "edge": false,
+                        "cwChallenges": [
+                            "566dc05f855b36a031000048"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5de18e7962a8e5003cbaae26",
+                                "name": "JS Practice. Array.prototype.concat()"
+                            }
+                        ],
+                        "name": "Array.prototype.concat() – Объединение массивов",
+                        "challenges": []
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5de14e9462a8e5003cbaab41",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "edge": false,
+                        "cwChallenges": [
+                            "577a98a6ae28071780000989",
+                            "511f11d355fe575d2c000001",
+                            "5b73fe9fb3d9776fbf00009e",
+                            "558fc85d8fd1938afb000014",
+                            "57ea5b0b75ae11d1e800006c",
+                            "556196a6091a7e7f58000018",
+                            "5a0b4dc2ffe75f72f70000ef",
+                            "5a91a7c5fd8c061367000002",
+                            "5a523566b3bfa84c2e00010b",
+                            "5174a4c0f2769dd8b1000003",
+                            "5c4cb8fc3cf185147a5bdd02",
+                            "5a090c4e697598d0b9000004",
+                            "5656b6906de340bd1b0000ac",
+                            "5731861d05d14d6f50000626",
+                            "51f41b98e8f176e70d0002a8"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5de19eea62a8e5003cbaaedc",
+                                "name": "JS Practice. Array.prototype.sort() "
+                            }
+                        ],
+                        "name": "Array.prototype.sort() – Сортировка массива на месте",
+                        "challenges": []
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5de14e2e62a8e5003cbaab37",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "edge": false,
+                        "cwChallenges": [
+                            "53dc23c68a0c93699800041d",
+                            "56e2f59fb2ed128081001328",
+                            "5a34af40e1ce0eb1f5000036",
+                            "55c90cad4b0fe31a7200001f",
+                            "578553c3a1b8d5c40300037c",
+                            "55caf1fd8063ddfa8e000018"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5de3086f277e6a003ce6007c",
+                                "name": "JS Practice. Array.prototype.join()"
+                            }
+                        ],
+                        "name": "Array.prototype.join() – Массив в строку",
+                        "challenges": []
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5de14ddf62a8e5003cbaab31",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "edge": false,
+                        "cwChallenges": [
+                            "54598d1fcbae2ae05200112c",
+                            "5a04133e32b8b998dc000089",
+                            "582c81d982a0a65424000201",
+                            "56b7f2f3f18876033f000307",
+                            "57cc981a58da9e302a000214",
+                            "56786a687e9a88d1cf00005d"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5de2c919277e6a003ce5fe2c",
+                                "name": "JS Practice. Array.prototype.every()"
+                            }
+                        ],
+                        "name": "Array.prototype.every() – Все ли элементы соблюдают условие?",
+                        "challenges": []
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5de14e0c62a8e5003cbaab35",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "edge": false,
+                        "cwChallenges": [
+                            "559f860f8c0d6c7784000119",
+                            "54598e89cbae2ac001001135"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5de2f381277e6a003ce60003",
+                                "name": "JS Practice. Array.prototype.some()"
+                            }
+                        ],
+                        "name": "Array.prototype.some() – Хотя бы один элемент соблюдает условие?",
+                        "challenges": []
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5de14e7b62a8e5003cbaab3e",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "edge": false,
+                        "cwChallenges": [
+                            "5bb904724c47249b10000131"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5de446d11c8071003cff1dda",
+                                "name": "JS Practice. Array.prototype.forEach()"
+                            }
+                        ],
+                        "name": "Array.prototype.forEach() – Функция для каждого элемента массива",
+                        "challenges": []
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5dcf7185d95082003c265601",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "57f780909f7e8e3183000078",
+                            "5a2be17aee1aaefe2a000151",
+                            "53dc54212259ed3d4f00071c",
+                            "56ff6a70e1a63ccdfa0001b1",
+                            "55d277882e139d0b6000005d",
+                            "56f8fe6a2e6c0dc83b0008a7",
+                            "56f7493f5d7c12d1690000b6",
+                            "5aff237c578a14752d0035ae",
+                            "56c22cdbe0c0f7cae2001789",
+                            "5844a422cbd2279a0c000281",
+                            "595aa94353e43a8746000120"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5de5517db6de2f003c6c286a",
+                                "name": "JS Practice. Array.prototype.reduce()"
+                            }
+                        ],
+                        "name": "Array.prototype.reduce() – Возврат единого значения массива",
+                        "edge": false,
+                        "challenges": []
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5d33db4f0ca4f00038111266",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "5899dc03bc95b1bf1b0000ad",
+                            "57f781872e3d8ca2a000007e",
+                            "5583090cbe83f4fd8c000051",
+                            "5713bc89c82eff33c60009f7",
+                            "57256064856584bc47000611",
+                            "5783d8f3202c0e486c001d23",
+                            "580777ee2e14accd9f000165",
+                            "559f3123e66a7204f000009f",
+                            "58846d50f54f021d90000012"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5de2bb38277e6a003ce5fd76",
+                                "name": "JS Practice. Array.prototype.map()"
+                            }
+                        ],
+                        "name": "Array.prototype.map() – Модификация элементов массива",
+                        "edge": false,
+                        "challenges": [
+                            "5e87aecc70b87e003cb19431",
+                            "5e87d1ce70b87e003cb19aa1"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "challenges": [],
+                        "_id": "5de14ebe62a8e5003cbaab43",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "edge": false,
+                        "cwChallenges": [
+                            "545afd0761aa4c3055001386"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5de569468ead2e003c6ff333",
+                                "name": "JS Practice. Array.prototype.splice()"
+                            }
+                        ],
+                        "name": "Array.prototype.splice() – Изменение содержимого массива"
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5de1d8ed62a8e5003cbab088",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "edge": false,
+                        "cwChallenges": [
+                            "570597e258b58f6edc00230d",
+                            "57274562c8dcebe77e001012",
+                            "5a651865fd56cb55760000e0",
+                            "54592a5052756d5c5d0009c3",
+                            "5a4ff3c5fd56cbaf9800003e"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5de486a81c8071003cff20b9",
+                                "name": "JS Practice. Array.prototype.slice() "
+                            }
+                        ],
+                        "name": "Array.prototype.slice() – Копия массива/подмассива",
+                        "challenges": []
+                    }
+                ],
+                "name": "Массивы",
+                "owner": "5c6278d25b633f00383b0dfb",
+                "course": "5d1cbf67086fc30038bf1859",
+                "createdAt": "2019-07-21T03:24:06.877Z",
+                "updatedAt": "2019-12-09T04:58:17.061Z",
+                "__v": 28
+            },
+            {
+                "accessType": "all",
+                "_id": "5d2a146662cf140038fe227e",
+                "lessons": [
+                    {
+                        "edgeFree": false,
+                        "_id": "5d2eb6620f1c8500385e7064",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "55a70521798b14d4750000a4",
+                            "55c90cad4b0fe31a7200001f",
+                            "55225023e1be1ec8bc000390",
+                            "5b077ebdaf15be5c7f000077",
+                            "55a14f75ceda999ced000048",
+                            "55f73f66d160f1f1db000059",
+                            "5625618b1fe21ab49f00001f",
+                            "5963c18ecb97be020b0000a2",
+                            "582e4c3406e37fcc770001ad",
+                            "57613fb1033d766171000d60",
+                            "571edea4b625edcb51000d8e"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5dd87bd4fc8381003cc5fd8f",
+                                "name": "JS Practice. Что такое строка?"
+                            }
+                        ],
+                        "name": "Что такое строка?",
+                        "edge": false,
+                        "challenges": []
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5d2eb6c20f1c8500385e7065",
+                        "video": "",
+                        "description": "В этом уроке мы будем решать задачи, требующие знания, как получить длину строки или обратиться к определенному элементу строки по индексу.",
+                        "active": false,
+                        "cwChallenges": [
+                            "557cd6882bfa3c8a9f0000c1",
+                            "55ad04714f0b468e8200001c",
+                            "56f695399400f5d9ef000af5",
+                            "59441520102eaa25260000bf",
+                            "56530b444e831334c0000020",
+                            "57ebaa8f7b45ef590c00000c",
+                            "58fa273ca6d84c158e000052",
+                            "50654ddff44f800200000007",
+                            "57ee24e17b45eff6d6000164"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5dd968b96846ec003c275323",
+                                "name": "JS Practice. Работа с длиной строки и ее символами"
+                            }
+                        ],
+                        "name": "Работа с длиной строки и ее символами",
+                        "edge": false,
+                        "challenges": [
+                            "5e9dc2aeb34920003c014483",
+                            "5e826d21126549003c763660",
+                            "5e9dc2ffb34920003c01448a"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5d2eb8a90f1c8500385e7066",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "56b1f01c247c01db92000076",
+                            "56bc28ad5bdaeb48760009b0",
+                            "57eae20f5500ad98e50002c5",
+                            "57f8ee485cae443c4d000127",
+                            "56a946cd7bd95ccab2000055",
+                            "54e6533c92449cc251001667",
+                            "5704aea738428f4d30000914",
+                            "563d59dd8e47a5ed220000ba",
+                            "557cffec8c3e8e55cc00010f"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5dd97eb36846ec003c2753ee",
+                                "name": "JS Practice. Цикл по строке от начала"
+                            }
+                        ],
+                        "name": "Цикл по строке от начала",
+                        "edge": false,
+                        "challenges": [
+                            "5f4eb5831b18dd003c51afd9"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5d2eb8c10f1c8500385e7067",
+                        "video": "https://youtu.be/NCNfbS0HCI4",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "5168bb5dfe9a00b126000018",
+                            "57a1fd2ce298a731b20006a4"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5dd985a26846ec003c275439",
+                                "name": "JS Practice. Цикл по строке с конца"
+                            }
+                        ],
+                        "name": "Цикл по строке с конца",
+                        "edge": false,
+                        "challenges": [
+                            "5ea3274fb26554003c13c058",
+                            "5ea327a1b26554003c13c05b",
+                            "5ea32804b26554003c13c05f",
+                            "5ea328a2b26554003c13c061",
+                            "5ecddcfa4ec890003ced92e9"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5dcb0983a7c36b003ccf2052",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "5631213916d70a0979000066"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5dd98f5e6846ec003c2754c0",
+                                "name": "JS Practice. String.prototype.concat()"
+                            }
+                        ],
+                        "name": "String.prototype.concat() – Объединение строк",
+                        "edge": false,
+                        "challenges": []
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5dcb073ba7c36b003ccf203a",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "57a1fd2ce298a731b20006a4",
+                            "57ec8bd8f670e9a47a000f89",
+                            "568dc014440f03b13900001d",
+                            "55908aad6620c066bc00002a",
+                            "5b180e9fedaa564a7000009a",
+                            "57e3f79c9cb119374600046b"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5dd9c9f46846ec003c2756ad",
+                                "name": "JS Practice. String.prototype.toLowerCase()"
+                            }
+                        ],
+                        "name": "String.prototype.toLowerCase() – Перевести в нижний регистр",
+                        "edge": false,
+                        "challenges": []
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5dcb0746a7c36b003ccf203b",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "57a0556c7cb1f31ab3000ad7",
+                            "595970246c9b8fa0a8000086",
+                            "5667e8f4e3f572a8f2000039",
+                            "539ee3b6757843632d00026b",
+                            "56d93f249c844788bc000002"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5dd9cef66846ec003c275707",
+                                "name": "JS Practice. String.prototype.toUpperCase() "
+                            }
+                        ],
+                        "name": "String.prototype.toUpperCase() – Перевести в верхний регистр",
+                        "edge": false,
+                        "challenges": [
+                            "5e703f43dadf84003c1ee96c",
+                            "5ea369dfb26554003c13c727"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5d355ff3fb8d7d0038da2701",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "5729b103dd8bac11a900119e"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5dd9d8006846ec003c27578f",
+                                "name": "JS Practice. String.prototype.trim()"
+                            }
+                        ],
+                        "name": "String.prototype.trim() – Удаление пробелов в начале и конце строки",
+                        "edge": false,
+                        "challenges": []
+                    },
+                    {
+                        "edgeFree": false,
+                        "challenges": [],
+                        "_id": "5dcb06d1a7c36b003ccf202c",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [],
+                        "questionGroups": [
+                            {
+                                "_id": "5dd9d8016846ec003c275790",
+                                "name": "JS Practice. String.prototype.trimStart()"
+                            }
+                        ],
+                        "name": "String.prototype.trimStart() – Удаление пробелов в начале строки",
+                        "edge": false
+                    },
+                    {
+                        "edgeFree": false,
+                        "challenges": [],
+                        "_id": "5dcb06dda7c36b003ccf202d",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [],
+                        "questionGroups": [
+                            {
+                                "_id": "5ddac02f0a8c0e003c8fc3b1",
+                                "name": "JS Practice. String.prototype.trimEnd()"
+                            }
+                        ],
+                        "name": "String.prototype.trimEnd() – Удаление пробелов в конце строки",
+                        "edge": false
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5dcb0768a7c36b003ccf203e",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "5a084a098ba9146690000969",
+                            "5effa412233ac3002a9e471d"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5ddb05f6d84e6b003c866d4c",
+                                "name": "JS Practice. String.prototype.padStart()"
+                            }
+                        ],
+                        "name": "String.prototype.padStart() – Заполнение слева",
+                        "edge": false,
+                        "challenges": []
+                    },
+                    {
+                        "edgeFree": false,
+                        "challenges": [],
+                        "_id": "5dcb0771a7c36b003ccf203f",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [],
+                        "questionGroups": [
+                            {
+                                "_id": "5ddb0ca6d84e6b003c866da4",
+                                "name": "JS Practice. String.prototype.padEnd()"
+                            }
+                        ],
+                        "name": "String.prototype.padEnd() – Заполнение справа",
+                        "edge": false
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5dcb0785a7c36b003ccf2040",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "57a0e5c372292dd76d000d7e",
+                            "5b4e779c578c6a898e0005c5",
+                            "570e8ec4127ad143660001fd",
+                            "5729b103dd8bac11a900119e",
+                            "570bcd9715944a2c8e000009",
+                            "563b74ddd19a3ad462000054",
+                            "5630d1747935943168000013"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5ddc1c89a9ccbf003caa24f9",
+                                "name": "JS Practice. String.prototype.repeat()"
+                            }
+                        ],
+                        "name": "String.prototype.repeat() – Повторение строки",
+                        "edge": false,
+                        "challenges": [
+                            "5ea072200b846f003ce5a104",
+                            "5ea072830b846f003ce5a10b"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5dcb07d4a7c36b003ccf2042",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "58dbdccee5ee8fa2f9000058",
+                            "5813d19765d81c592200001a",
+                            "5892595f190ca40ad0000095",
+                            "57cc40b2f8392dbf2a0003ce",
+                            "57b9fc5b8f5813384a000aa3",
+                            "57470efebf81fea166001627",
+                            "55d410c492e6ed767000004f",
+                            "57fe50d000d05166720000b1"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5ddc9732a9ccbf003caa2cd0",
+                                "name": "JS Practice. String.prototype.includes()"
+                            }
+                        ],
+                        "name": "String.prototype.includes() – Поиск подстроки в строке",
+                        "edge": false,
+                        "challenges": [
+                            "5e6ff5a2dadf84003c1ee585"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5dcb0800a7c36b003ccf2048",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "5808e2006b65bff35500008f",
+                            "59706036f6e5d1e22d000016",
+                            "568dc69683322417eb00002c",
+                            "57eadb7ecd143f4c9c0000a3"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5ddd5463d845c8003ce566e9",
+                                "name": "JS Practice. String.prototype.indexOf()"
+                            }
+                        ],
+                        "name": "String.prototype.indexOf() – Индекс первого вхождения ",
+                        "edge": false,
+                        "challenges": []
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5dcb0945a7c36b003ccf204f",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "57277a31e5e51450a4000010"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5ddd5d1ad845c8003ce56749",
+                                "name": "JS Practice. String.prototype.lastIndexOf()"
+                            }
+                        ],
+                        "name": "String.prototype.lastIndexOf() – Индекс последнего вхождения",
+                        "edge": false,
+                        "challenges": []
+                    },
+                    {
+                        "edgeFree": false,
+                        "challenges": [],
+                        "_id": "5dcb0852a7c36b003ccf204a",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "56a25ba95df27b7743000016"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5ddc085ba9ccbf003caa23f2",
+                                "name": "JS Practice. String.prototype.startsWith()"
+                            }
+                        ],
+                        "name": "String.prototype.startsWith() – Начало строки",
+                        "edge": false
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5dcb085ca7c36b003ccf204b",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "51f2d1cafc9c0f745c00037d",
+                            "56f695399400f5d9ef000af5",
+                            "5a58d889880385c2f40000aa",
+                            "525d9b1a037b7a9da7000905"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5ddc0ec9a9ccbf003caa2459",
+                                "name": "JS Practice.  String.prototype.endsWith()"
+                            }
+                        ],
+                        "name": " String.prototype.endsWith() – Окончание строки ",
+                        "edge": false,
+                        "challenges": []
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5dcb0928a7c36b003ccf204e",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [],
+                        "questionGroups": [
+                            {
+                                "_id": "5dddf9861a1ed1003c32d061",
+                                "name": "JS Practice. String.prototype.substring()"
+                            }
+                        ],
+                        "name": "String.prototype.substring() – Возврат подстроки между двумя индексами",
+                        "edge": false,
+                        "challenges": []
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5dcb081da7c36b003ccf2049",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "56bc28ad5bdaeb48760009b0",
+                            "5412509bd436bd33920011bc",
+                            "5868812b15f0057e05000001",
+                            "56b0ff16d4aa33e5bb00008e",
+                            "525f50e3b73515a6db000b83",
+                            "535474308bb336c9980006f2",
+                            "563fb342f47611dae800003c",
+                            "586560a639c5ab3a260000f3",
+                            "5e4217e476126b000170489b",
+                            "5a995c2aba1bb57f660001fd",
+                            "51675d17e0c1bed195000001"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5dded2221a1ed1003c32d6fd",
+                                "name": "JS Practice. String.prototype.slice()"
+                            }
+                        ],
+                        "name": "String.prototype.slice() – Возврат подстроки между индексами",
+                        "edge": false,
+                        "challenges": []
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5dcb08afa7c36b003ccf204c",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "57eae20f5500ad98e50002c5",
+                            "57eae65a4321032ce000002d",
+                            "5556282156230d0e5e000089",
+                            "577bd026df78c19bca0002c0",
+                            "55b051fac50a3292a9000025",
+                            "596c6eb85b0f515834000049",
+                            "5547929140907378f9000039",
+                            "57faece99610ced690000165",
+                            "554e4a2f232cdd87d9000038",
+                            "57a37f3cbb99449513000cd8",
+                            "596fba44963025c878000039",
+                            "57ab2d6072292dbf7c000039",
+                            "58640340b3a675d9a70000b9",
+                            "557af4c6169ac832300000ba",
+                            "5a02e9c19f8e2dbd50000167",
+                            "55ea5650fe9247a2ea0000a7"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5de410c31c8071003cff1c35",
+                                "name": "JS Practice. String.prototype.replace()"
+                            }
+                        ],
+                        "name": "String.prototype.replace() – Замена символа(-ов) в строке",
+                        "edge": false,
+                        "challenges": []
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5dcb0a49a7c36b003ccf2057",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "5583090cbe83f4fd8c000051",
+                            "51c8991dee245d7ddf00000e",
+                            "57e76bc428d6fbc2d500036d",
+                            "5467e4d82edf8bbf40000155",
+                            "57a55c8b72292d057b000594",
+                            "554b4ac871d6813a03000035",
+                            "559ac78160f0be07c200005a",
+                            "5b4e474305f04bea11000148",
+                            "5857e8bb9948644aa1000246",
+                            "5aee86c5783bb432cd000018",
+                            "5768a693a3205e1cc100071f",
+                            "55f8a9c06c018a0d6e000132",
+                            "559d2284b5bb6799e9000047",
+                            "529eef7a9194e0cbc1000255",
+                            "57fb142297e0860073000064",
+                            "588a7d45019c42be61000009",
+                            "58305403aeb69a460b00019a",
+                            "5bf774a81505a7413400006a",
+                            "525f039017c7cd0e1a000a26",
+                            "5aa3af22ba1bb5209f000037",
+                            "5f8a15c06dbd530016be0c19",
+                            "5b39e91ee7a2c103300018b3",
+                            "5a87449ab1710171300000fd",
+                            "5959ec605595565f5c00002b",
+                            "5639bdcef2f9b06ce800005b",
+                            "59619e4609868dd923000041",
+                            "565ce4ab24ef4aee6a000074"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5ddf1a851a1ed1003c32da30",
+                                "name": "JS Practice. String.prototype.split()"
+                            }
+                        ],
+                        "name": "String.prototype.split() – Преобразование строки в массив",
+                        "edge": false,
+                        "challenges": [
+                            "5e6ff535dadf84003c1ee57e",
+                            "5e826cce126549003c763653",
+                            "5ea071b00b846f003ce5a0fc",
+                            "5ea32fd5b26554003c13c0c9"
+                        ]
+                    }
+                ],
+                "name": "Тип данных Строка",
+                "owner": "5c6278d25b633f00383b0dfb",
+                "course": "5d1cbf67086fc30038bf1859",
+                "createdAt": "2019-07-13T17:27:02.064Z",
+                "updatedAt": "2019-11-17T20:06:12.379Z",
+                "__v": 22
+            },
+            {
+                "accessType": "all",
+                "_id": "5d33dc3a0ca4f00038111269",
+                "lessons": [
+                    {
+                        "edgeFree": false,
+                        "_id": "5d33dc850ca4f0003811126a",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "577ff15ad648a14b780000e7",
+                            "582e0e592029ea10530009ce",
+                            "5722b3f0bd5583cf44001000",
+                            "5836dce6966f8d1d43000007",
+                            "57d001b405c186ccb6000304",
+                            "571b6a4a7beb0a8ade0007a8",
+                            "56d8ae9237123036d3001b54",
+                            "521cd52e790405a74800032c",
+                            "56a29b237e9e997ff2000048"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5deaf902f95f5f003cfcf256",
+                                "name": "JS  Practice. Что такое объект"
+                            }
+                        ],
+                        "name": "Что такое объект",
+                        "edge": false,
+                        "challenges": []
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5dcfb4cad95082003c265a27",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "57293671c98f77e84b000065",
+                            "581b30af1ef8ee6aea0015b9"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5deeea7c2cb9d2003c156e5b",
+                                "name": "JS  Practice. Как проверить, что это объект"
+                            }
+                        ],
+                        "name": "Как проверить, что это объект",
+                        "edge": false,
+                        "challenges": []
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5ddc85dca9ccbf003caa2b82",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "52a47dd7e950edabfa000391"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5def108d2cb9d2003c1571e8",
+                                "name": "JS Practice. Объект – ссылочный тип данных. Сравнение объектов"
+                            }
+                        ],
+                        "name": "Объект – ссылочный тип данных. Сравнение объектов",
+                        "edge": false,
+                        "challenges": []
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5d33dcbc0ca4f0003811126b",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "5a9e86705ee396d6be000091",
+                            "577ff15ad648a14b780000e7",
+                            "583f158ea20cfcbeb400000a",
+                            "55805ab490c73741b7000064",
+                            "5722b3f0bd5583cf44001000",
+                            "5863f97fb3a675d9a700003f"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5dea9002f95f5f003cfcef30",
+                                "name": "JS Practice. Как получить свойство объекта"
+                            }
+                        ],
+                        "name": "Как получить свойство объекта",
+                        "edge": false,
+                        "challenges": [
+                            "5f8cd6296c1733003c7cb2c6",
+                            "5f8cd6a26c1733003c7cb51c"
+                        ]
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5ddc84b5a9ccbf003caa2b79",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "582746fa14b3892727000c4f",
+                            "58279e13c983ca4a2a00002a",
+                            "5533c2a50c4fea6832000101",
+                            "599db0a227ca9f294b0000c8"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5dec03f051d520003c3a43a1",
+                                "name": "JS Practice. Путешествие по объекту"
+                            }
+                        ],
+                        "name": "Путешествие по объекту",
+                        "edge": false,
+                        "challenges": []
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5ddc845ea9ccbf003caa2b69",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "56c22c5ae8b139416c00175d",
+                            "5828713ed04efde70e000346",
+                            "54e8c3e89e2ae6f4900005a1",
+                            "57ced2c1c6fdc22123000316",
+                            "58279e13c983ca4a2a00002a"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5ded4ee0727575003c8fc624",
+                                "name": "JS Practice. Добавление и удаление свойств объекта. Проверка существования свойства"
+                            }
+                        ],
+                        "name": "Добавление и удаление свойств объекта. Проверка существования свойства",
+                        "edge": false,
+                        "challenges": []
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5ddc858ba9ccbf003caa2b80",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "cwChallenges": [
+                            "5dd5128f16eced000e4c42ba",
+                            "57ecf6efc7fe13eb070000e1",
+                            "576a29ab726f4bba4b000bb1",
+                            "58ae6ae22c3aaafc58000079",
+                            "58e93b4706db4d24ee000096",
+                            "596776fbb4f24d0d82000141"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5dee915c2cb9d2003c156725",
+                                "name": "JS Practice. Итерация по объекту – 'for ... in'"
+                            }
+                        ],
+                        "name": "Итерация по объекту – 'for ... in'",
+                        "edge": false,
+                        "challenges": []
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5deabdfaf95f5f003cfcf0de",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "edge": false,
+                        "cwChallenges": [
+                            "57ed4cef7b45ef8774000014",
+                            "5b047875de4c7f9af800011b",
+                            "5a434a9dc5e284724f000011",
+                            "5b16490986b6d336c900007d",
+                            "5b358a1e228d316283001892",
+                            "58235a167a8cb37e1a0000db"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5dec4a1251d520003c3a4494",
+                                "name": "JS Practice. Итерация по объекту с помощью методов: Object.keys(), Object.values() и Object.entries()"
+                            }
+                        ],
+                        "name": "Итерация по объекту с помощью методов: Object.keys(), Object.values() и Object.entries()",
+                        "challenges": [
+                            "5e89078a924085003c5b29f7"
+                        ]
+                    }
+                ],
+                "name": "Тип данных Объект",
+                "owner": "5c6278d25b633f00383b0dfb",
+                "course": "5d1cbf67086fc30038bf1859",
+                "createdAt": "2019-07-21T03:30:02.476Z",
+                "updatedAt": "2019-12-06T20:45:47.166Z",
+                "__v": 8
+            },
+            {
+                "accessType": "all",
+                "_id": "5dcfb4acd95082003c265a25",
+                "lessons": [
+                    {
+                        "edgeFree": false,
+                        "_id": "5dec575651d520003c3a44ba",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "edge": false,
+                        "cwChallenges": [
+                            "56efc695740d30f963000557",
+                            "53f0f358b9cb376eca001079",
+                            "567bf4f7ee34510f69000032",
+                            "53f1015fa9fe02cbda00111a",
+                            "587731fda577b3d1b0001196",
+                            "586a3270c66d18ad810001d4",
+                            "53b2ff49b82af296ce001139",
+                            "526471539d52735c620000c6",
+                            "547c71fdc5b2b38db1000098",
+                            "597c684822bc9388f600010f",
+                            "56cd44e1aa4ac7879200010b",
+                            "5390bac347d09b7da40006f6"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5df1401b86b522003c74fad1",
+                                "name": "JS Practice. Методы объекта, \"this\""
+                            }
+                        ],
+                        "name": "Методы объекта, \"this\"",
+                        "challenges": []
+                    },
+                    {
+                        "edgeFree": false,
+                        "challenges": [],
+                        "_id": "5ded9abe727575003c8fc7dd",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "edge": false,
+                        "cwChallenges": [],
+                        "questionGroups": [
+                            {
+                                "_id": "5df19bdc86b522003c750266",
+                                "name": "JS  Practice. Что такое чистая функция"
+                            }
+                        ],
+                        "name": "Pure Functions – Что такое чистая функция"
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5ded9828727575003c8fc7ac",
+                        "video": "",
+                        "description": "",
+                        "active": true,
+                        "edge": false,
+                        "cwChallenges": [
+                            "541629460b198da04e000bb9",
+                            "55c211cce1ef691d9b000061",
+                            "5c44b0b200ce187106452139",
+                            "5258b272e6925db09900386a",
+                            "555b73a81a6285b6ce000047",
+                            "558ee8415872565824000007",
+                            "57aa218e72292d98d500240f",
+                            "529f32794a6db5d32a00071f"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5df3b66f3ace92003c536501",
+                                "name": "JS Practice. Rest parameter "
+                            }
+                        ],
+                        "name": "Rest parameter ... – оставшиеся параметры функции",
+                        "challenges": []
+                    },
+                    {
+                        "edgeFree": false,
+                        "challenges": [],
+                        "_id": "5ded98d7727575003c8fc7b7",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "edge": false,
+                        "cwChallenges": [
+                            "58dd98fe8d29b0f30d0002bd"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5df6bb791bdc3f003c119041",
+                                "name": "JS Practice.Function.prototype.call()"
+                            }
+                        ],
+                        "name": "Function.prototype.call() – подстановка контекста"
+                    },
+                    {
+                        "edgeFree": false,
+                        "challenges": [],
+                        "_id": "5ded98cf727575003c8fc7b3",
+                        "video": "",
+                        "description": "",
+                        "active": true,
+                        "edge": false,
+                        "cwChallenges": [
+                            "540de1f0716ab384b4000828"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5df8171acaa560003c2762bf",
+                                "name": "JS Practice. Function.prototype.apply()"
+                            }
+                        ],
+                        "name": "Function.prototype.apply() – подстановка контекста"
+                    },
+                    {
+                        "edgeFree": false,
+                        "challenges": [],
+                        "_id": "5ded9906727575003c8fc7bb",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "edge": false,
+                        "cwChallenges": [],
+                        "questionGroups": [
+                            {
+                                "_id": "5df66559935cb9003c710252",
+                                "name": "JS Practice. Function.prototype.bind()"
+                            }
+                        ],
+                        "name": "Function.prototype.bind() – привязка контекста"
+                    },
+                    {
+                        "edgeFree": false,
+                        "_id": "5ded9a68727575003c8fc7d4",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "edge": true,
+                        "cwChallenges": [
+                            "53b2ff49b82af296ce001139",
+                            "526471539d52735c620000c6",
+                            "586a3270c66d18ad810001d4",
+                            "56d6b921c9ae3fd926000601",
+                            "52adc142b2651f25a8000643",
+                            "525d50d2037b7acd6e000534",
+                            "56c19316e8b139dff60006da",
+                            "53fc954904a45eda6b00097f",
+                            "52b74e0936d582d9210005ff"
+                        ],
+                        "questionGroups": [
+                            {
+                                "_id": "5dfbd36df2ef04003c6c856f",
+                                "name": "JS Practice. Расширение прототипа"
+                            }
+                        ],
+                        "name": "Расширение прототипа",
+                        "challenges": []
+                    },
+                    {
+                        "edgeFree": false,
+                        "challenges": [],
+                        "_id": "5ded996b727575003c8fc7c2",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "edge": false,
+                        "cwChallenges": [],
+                        "questionGroups": [],
+                        "name": "High Order Functions (HOF) "
+                    },
+                    {
+                        "edgeFree": false,
+                        "challenges": [],
+                        "_id": "5ded9971727575003c8fc7c4",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "edge": false,
+                        "cwChallenges": [],
+                        "questionGroups": [],
+                        "name": "Currying"
+                    },
+                    {
+                        "edgeFree": false,
+                        "challenges": [],
+                        "_id": "5ded9986727575003c8fc7c6",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "edge": false,
+                        "cwChallenges": [],
+                        "questionGroups": [],
+                        "name": "Closures – Замыкания"
+                    }
+                ],
+                "name": "Работа с функциями",
+                "owner": "5b7366b42ffb85d6053b8649",
+                "course": "5d1cbf67086fc30038bf1859",
+                "createdAt": "2019-11-16T08:34:52.185Z",
+                "updatedAt": "2019-12-15T19:01:47.879Z",
+                "__v": 10
+            },
+            {
+                "accessType": "all",
+                "_id": "5dda336c6846ec003c275c85",
+                "lessons": [
+                    {
+                        "edgeFree": false,
+                        "challenges": [],
+                        "_id": "5df456c23ace92003c537437",
+                        "video": "",
+                        "description": "",
+                        "active": false,
+                        "edge": false,
+                        "cwChallenges": [],
+                        "questionGroups": [],
+                        "name": "Методы и свойства класса"
+                    }
+                ],
+                "name": "Class",
+                "owner": "5b7366b42ffb85d6053b8649",
+                "course": "5d1cbf67086fc30038bf1859",
+                "createdAt": "2019-11-24T07:38:20.163Z",
+                "updatedAt": "2019-12-14T03:28:02.101Z",
+                "__v": 1
+            }
+        ],
+        "name": "JavaScript Practice",
+        "accessType": "all",
+        "owner": "5b7366b42ffb85d6053b8649",
+        "createdAt": "2019-07-03T14:44:55.676Z",
+        "updatedAt": "2023-04-30T23:16:26.156Z",
+        "allowedForRoles": "student",
+        "depend": "5c140b2b42f6ea23059cbe8f",
+        "dependsOn": null,
+        "image": "https://course-qa-basics.s3.us-west-1.amazonaws.com/js-practice-thumb.jpg",
+        "order": 3
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "message": "Get completed katas by user id. Success",
+    "success": true,
+    "fail": false,
+    "payload": [
+        {
+            "id": "563f037412e5ada593000114",
+            "name": "Money, Money, Money",
+            "slug": "money-money-money",
+            "completedLanguages": [
+                "javascript"
+            ],
+            "completedAt": "2023-08-22T01:07:34.382Z"
+        },
+        {
+            "id": "562f91ff6a8b77dfe900006e",
+            "name": "Going to the cinema",
+            "slug": "going-to-the-cinema",
+            "completedLanguages": [
+                "javascript"
+            ],
+            "completedAt": "2023-08-22T00:59:00.401Z"
+        },
+        {
+            "id": "558f9f51e85b46e9fa000025",
+            "name": "Difference Of Squares",
+            "slug": "difference-of-squares",
+            "completedLanguages": [
+                "javascript"
+            ],
+            "completedAt": "2023-08-20T23:59:02.313Z"
+        },
+        {
+            "id": "534d0a229345375d520006a0",
+            "name": "Power of two",
+            "slug": "power-of-two",
+            "completedLanguages": [
+                "javascript"
+            ],
+            "completedAt": "2023-06-11T14:47:27.898Z"
+        },
+        {
+            "id": "56dec885c54a926dcd001095",
+            "name": "Opposite number",
+            "slug": "opposite-number",
+            "completedLanguages": [
+                "javascript"
+            ],
+            "completedAt": "2023-06-10T15:43:02.428Z"
+        },
+        {
+            "id": "5810085c533d69f4980001cf",
+            "name": "simple calculator ",
+            "slug": "simple-calculator",
+            "completedLanguages": [
+                "javascript"
+            ],
+            "completedAt": "2023-04-30T23:19:06.764Z"
+        },
+        {
+            "id": "5808dcb8f0ed42ae34000031",
+            "name": "Switch it Up!",
+            "slug": "switch-it-up",
+            "completedLanguages": [
+                "javascript"
+            ],
+            "completedAt": "2023-04-30T23:10:27.894Z"
+        },
+        {
+            "id": "57356c55867b9b7a60000bd7",
+            "name": "Basic Mathematical Operations",
+            "slug": "basic-mathematical-operations",
+            "completedLanguages": [
+                "javascript"
+            ],
+            "completedAt": "2023-04-30T23:04:18.709Z"
+        },
+        {
+            "id": "572059afc2f4612825000d8a",
+            "name": "Training JS #8: Conditional statement--switch",
+            "slug": "training-js-number-8-conditional-statement-switch",
+            "completedLanguages": [
+                "javascript"
+            ],
+            "completedAt": "2023-04-30T22:59:44.603Z"
+        },
+        {
+            "id": "50654ddff44f800200000004",
+            "name": "Multiply",
+            "slug": "multiply",
+            "completedLanguages": [
+                "javascript"
+            ],
+            "completedAt": "2023-03-06T22:09:17.663Z"
+        }
+    ]
+}

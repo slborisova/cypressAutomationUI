@@ -7,7 +7,7 @@
     "open": "cypress open --e2e --browser chrome",
     "open2": "cypress open --e2e",
     "prettier": "npx prettier . --write",
-    "cypress-run": "cypress run --browser chrome --spec cypress/e2e/autoFill.cy.ts"
+    "cypress-run": "cypress run --browser chrome --spec cypress/e2e/autoFill.cy.ts",
     "cypressTest": "cypress run --browser chrome --spec cypress/e2e/**"
   },
   "keywords": [],
